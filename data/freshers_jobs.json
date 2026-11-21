@@ -1,0 +1,35 @@
+{
+  "generatedAtUtc": "2026-11-21T07:30:00Z",
+  "generatedAtIst": "Today, 1:00 PM IST",
+  "totalCount": 2,
+  "jobs": [
+    {
+      "id": "job_001",
+      "role": "Software Engineer - I",
+      "company": "Google",
+      "location": "Bengaluru, India",
+      "workMode": "Hybrid",
+      "ctc": "22 - 28 LPA",
+      "batch": "2025 / 2026 Batch",
+      "skills": ["Java", "C++", "Python", "Data Structures"],
+      "eligibility": "B.E./B.Tech/M.Tech in CSE, IT | 0–1 Years Experience",
+      "summary": "Develop scalable distributed systems and core cloud infrastructure at Google scale.",
+      "publishedMillis": 1774252800000,
+      "applyUrl": "https://www.google.com/about/careers/applications/"
+    },
+    {
+      "id": "job_002",
+      "role": "Associate Software Engineer",
+      "company": "Microsoft",
+      "location": "Noida / Hyderabad, India",
+      "workMode": "Hybrid",
+      "ctc": "20 - 25 LPA",
+      "batch": "2026 Batch",
+      "skills": ["C#", ".NET", "Azure", "SQL"],
+      "eligibility": "B.E./B.Tech/MCA (2026 Passing Out Batch)",
+      "summary": "Build next-generation cloud services and intelligent developer platforms on Microsoft Azure.",
+      "publishedMillis": 1774256400000,
+      "applyUrl": "https://careers.microsoft.com/"
+    }
+  ]
+}
