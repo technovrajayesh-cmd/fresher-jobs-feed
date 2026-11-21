@@ -1,0 +1,29 @@
+name: Hourly Job Feed Automation
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every 1 hour automatically
+  workflow_dispatch: # Allows you to trigger it manually anytime from GitHub UI
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to commit changes back to the repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Job Feed Script
+        run: python update_jobs.py
+
+      - name: Commit and Push Updated JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Automated hourly fresher job feed update"
+          branch: main
