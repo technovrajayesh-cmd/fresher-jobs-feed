@@ -1,10 +1,10 @@
 {
-  "generatedAtUtc": "2026-11-21T21:29:55.884277+00:00",
-  "generatedAtIst": "Today, 09:29 PM UTC",
+  "generatedAtUtc": "2026-11-21T22:29:31.980657+00:00",
+  "generatedAtIst": "Today, 10:29 PM UTC",
   "totalCount": 3,
   "jobs": [
     {
-      "id": "auto_google_1795296595884",
+      "id": "auto_google_1795300171980",
       "role": "Software Engineer - I (Graduate)",
       "company": "Google",
       "location": "Bengaluru / Hyderabad, India",
@@ -19,11 +19,11 @@
       ],
       "eligibility": "B.E./B.Tech/M.Tech in CSE, IT, ECE | 0\u20131 Years Experience",
       "summary": "Design, develop, and test scalable distributed systems and core cloud infrastructure at Google scale.",
-      "publishedMillis": 1795292995884,
+      "publishedMillis": 1795296571980,
       "applyUrl": "https://www.google.com/about/careers/applications/"
     },
     {
-      "id": "auto_microsoft_1795296595884",
+      "id": "auto_microsoft_1795300171980",
       "role": "Associate Software Engineer",
       "company": "Microsoft",
       "location": "Noida / Hyderabad, India",
@@ -38,11 +38,11 @@
       ],
       "eligibility": "B.E./B.Tech/MCA (2026 Passing Out Batch)",
       "summary": "Build next-generation cloud services and intelligent developer platforms on Microsoft Azure.",
-      "publishedMillis": 1795289395884,
+      "publishedMillis": 1795292971980,
       "applyUrl": "https://careers.microsoft.com/"
     },
     {
-      "id": "auto_amazon_1795296595884",
+      "id": "auto_amazon_1795300171980",
       "role": "Software Engineer - I",
       "company": "Amazon",
       "location": "Bengaluru / Chennai, India",
@@ -57,7 +57,7 @@
       ],
       "eligibility": "B.E./B.Tech in CS/IT/Data Science",
       "summary": "Work with AWS and Alexa AI teams to build high-performance machine learning models and cloud microservices.",
-      "publishedMillis": 1795285795884,
+      "publishedMillis": 1795289371980,
       "applyUrl": "https://www.amazon.jobs/"
     }
   ]
