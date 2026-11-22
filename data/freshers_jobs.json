@@ -25,26 +25,8 @@
       "publishedMillis": 1795305900000,
       "applyUrl": "https://careersat.tech/jobs/role/data"
     },
-    {
-      "id": "auto_stripe_1795327498000",
-      "role": "Software Engineer, New Grad",
-      "company": "Stripe",
-      "location": "Bengaluru, India",
-      "workMode": "Hybrid",
-      "ctc": "24 - 32 LPA",
-      "batch": "2026 Batch",
-      "skills": [
-        "Ruby",
-        "Go",
-        "Java",
-        "Distributed Systems",
-        "APIs"
-      ],
-      "eligibility": "B.E./B.Tech/M.Tech in CSE/IT/ECE (2026 Passing Out Batch)",
-      "summary": "Build reliable financial infrastructure, payment APIs, and scalable backend services powering global internet commerce.",
-      "publishedMillis": 1795298700000,
-      "applyUrl": "https://stripe.com/jobs"
-    },
+
+    
     {
       "id": "auto_gartner_ba_1795327461000",
       "role": "Associate Services Business Analyst - Content Review",
