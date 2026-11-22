@@ -3,46 +3,8 @@
   "generatedAtIst": "Today, 11:39 AM IST",
   "totalCount": 167,
   "jobs": [
-    {
-      "id": "auto_google_1795327500000",
-      "role": "Software Engineer, AI/ML (Early Career, 2026)",
-      "company": "Google",
-      "location": "Bengaluru / Hyderabad, India",
-      "workMode": "Hybrid",
-      "ctc": "22 - 30 LPA",
-      "batch": "2025 / 2026 Batch",
-      "skills": [
-        "Python",
-        "C++",
-        "Java",
-        "Machine Learning",
-        "Data Structures"
-      ],
-      "eligibility": "B.E./B.Tech/M.Tech/PhD in CS, AI/ML, or related technical field | 0–1 Years Experience",
-      "summary": "Develop next-generation AI/ML systems, large-scale networking, and distributed cloud infrastructure at Google scale.",
-      "publishedMillis": 1795320300000,
-      "applyUrl": "https://www.google.com/about/careers/applications/"
-    },
-    {
-      "id": "auto_amazon_1795327499000",
-      "role": "Software Development Engineer I (SDE-I)",
-      "company": "Amazon",
-      "location": "Bengaluru / Hyderabad / Chennai, India",
-      "workMode": "Hybrid",
-      "ctc": "18 - 26 LPA",
-      "batch": "2025 / 2026 Batch",
-      "skills": [
-        "Java",
-        "C++",
-        "Python",
-        "Algorithms",
-        "AWS"
-      ],
-      "eligibility": "B.E./B.Tech/M.Tech in Computer Science or equivalent | 0–1 Years Experience",
-      "summary": "Design, build, and operate scalable distributed services and customer-facing software systems across Amazon.",
-      "publishedMillis": 1795309500000,
-      "applyUrl": "https://www.amazon.jobs/en/"
-    },
+
+    
     {
       "id": "auto_transunion_da_1795327462000",
       "role": "Data Analyst",
