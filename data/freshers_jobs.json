@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-11-24T19:21:07.102200+00:00",
-  "generatedAtIst": "Wednesday, November 25, 2026 IST",
+  "generatedAtUtc": "2026-11-24T19:26:20.835175+00:00",
+  "generatedAtIst": "Today, 12:56 AM IST",
   "totalCount": 134,
   "jobs": [
     {
@@ -18,7 +18,9 @@
       "eligibility": "2026 graduates",
       "summary": "Graduate software engineering role.",
       "publishedMillis": 0,
-      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html"
+      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "infosys_bpm_process_exec",
@@ -35,7 +37,9 @@
       "eligibility": "BCom/BBA/BBM 2025-2026 graduates",
       "summary": "Process executive role for fresh graduates.",
       "publishedMillis": 0,
-      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html"
+      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "google_apm_2027start",
@@ -51,7 +55,9 @@
       "eligibility": "University graduate",
       "summary": "APM graduate role.",
       "publishedMillis": 0,
-      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html"
+      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "automationedge_java_fresher",
@@ -67,7 +73,9 @@
       "eligibility": "0-1 year, freshers eligible",
       "summary": "Entry level Java developer role.",
       "publishedMillis": 0,
-      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html"
+      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "brightchamps_bda",
@@ -84,7 +92,9 @@
       "eligibility": "Recent graduates",
       "summary": "WFH fresher BDA role.",
       "publishedMillis": 0,
-      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html"
+      "applyUrl": "https://in.indeed.com/q-2026-graduate-fresher-jobs.html",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_amazon_10454438",
@@ -105,7 +115,9 @@
       "eligibility": "Bachelor’s or higher in CS, Computer Engineering or related field | 2026 graduates only | 0 years experience",
       "summary": "Entry-level SDE role under Amazon University Talent Acquisition. Build software on large-scale distributed systems, work with senior engineers, deliver high-quality code in agile cycles.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition"
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_digitide_1795564800000_2",
@@ -122,7 +134,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Trainee software engineering role for freshers at Digitide Solutions.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://iaceiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/272779"
+      "applyUrl": "https://iaceiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/272779",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_big_1795564800000_3",
@@ -139,7 +153,9 @@
       "eligibility": "0-1 Years Experience",
       "summary": "Graduate trainee role in technology at BIG OH TECH, Noida.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://bigohtech.keka.com/careers/jobdetails/147956"
+      "applyUrl": "https://bigohtech.keka.com/careers/jobdetails/147956",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_exl_1795564800000_4",
@@ -156,7 +172,9 @@
       "eligibility": "0-2 Years Experience",
       "summary": "Low-code/no-code engineering role at EXL.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22896"
+      "applyUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22896",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_jansoft_1795564800000_5",
@@ -172,7 +190,9 @@
       "eligibility": "0-2 Years Experience",
       "summary": "Software developer opening at Jansoft Global for early-career candidates.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://jansoftglobal.zohorecruit.in/jobs/Careers/201027000004121577"
+      "applyUrl": "https://jansoftglobal.zohorecruit.in/jobs/Careers/201027000004121577",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_transunion_1795564800000_6",
@@ -189,7 +209,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level associate developer role at TransUnion, Hyderabad.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Assoc-Developer--Software-Development_19043115-1"
+      "applyUrl": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hyderabad/Assoc-Developer--Software-Development_19043115-1",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_ncr_1795564800000_7",
@@ -206,7 +228,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level application development engineer role at NCR Voyix.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Application-Development-Engineer--I-_R0158911"
+      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Application-Development-Engineer--I-_R0158911",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_allstate_1795564800000_8",
@@ -222,7 +246,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level software engineering consultant role at Allstate.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Consultant-I_R36696"
+      "applyUrl": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Consultant-I_R36696",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_fc_1795564800000_9",
@@ -240,7 +266,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level Murex software engineer role at First Citizens' India centre.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Software-Engineer-I---Murex_25001"
+      "applyUrl": "https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Software-Engineer-I---Murex_25001",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_kpmg_1795564800000_10",
@@ -257,7 +285,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level ServiceNow consulting role at KPMG Global Services.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052243"
+      "applyUrl": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30052243",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_equifax_1795564800000_11",
@@ -275,7 +305,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Trainee data scientist role in Equifax Analytics, Mumbai.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://equifax.wd5.myworkdayjobs.com/External/job/IND-Mumbai-Equifax-Analytics/Trainee-Data-Scientist_J00180405"
+      "applyUrl": "https://equifax.wd5.myworkdayjobs.com/External/job/IND-Mumbai-Equifax-Analytics/Trainee-Data-Scientist_J00180405",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_srm_1795564800000_12",
@@ -293,7 +325,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Level-1 cloud network operations centre analyst role.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://srmtech.zohorecruit.com/jobs/Careers/664168000024769133"
+      "applyUrl": "https://srmtech.zohorecruit.com/jobs/Careers/664168000024769133",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_srm_1795564800000_13",
@@ -310,7 +344,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Junior DBA role for freshers at SRM Technologies.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://srmtech.zohorecruit.com/jobs/Careers/664168000026718399"
+      "applyUrl": "https://srmtech.zohorecruit.com/jobs/Careers/664168000026718399",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_ntt_1795564800000_14",
@@ -327,7 +363,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Level-1 monitoring engineer in NTT DATA managed services.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Mumbai-India/Monitoring-Engineer---L1_R-152764"
+      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Mumbai-India/Monitoring-Engineer---L1_R-152764",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_ntt_ms_engineer",
@@ -346,7 +384,9 @@
       "eligibility": "Freshers welcome | Entry level",
       "summary": "L1 support for Microsoft collaboration tools, voice systems and contact centre solutions.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Mumbai-India/MS-Engineer-L1_R-152766"
+      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Mumbai-India/MS-Engineer-L1_R-152766",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_ntt_1795564800000_16",
@@ -363,7 +403,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Level-1 networking managed-services engineer at NTT DATA.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Mangalore-India/Networking-Managed-Services-Engineer--L1--4_R-152809"
+      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Mangalore-India/Networking-Managed-Services-Engineer--L1--4_R-152809",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_schneider_1795564800000_17",
@@ -380,7 +422,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level remote support engineer role at Schneider Electric.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://careers.se.com/jobs/145678?lang=en-us"
+      "applyUrl": "https://careers.se.com/jobs/145678?lang=en-us",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_kotak_1795564800000_18",
@@ -397,7 +441,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Junior application analyst role at Kotak Education Foundation.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://kef.keka.com/careers/jobdetails/96545"
+      "applyUrl": "https://kef.keka.com/careers/jobdetails/96545",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_woolpert_1795564800000_19",
@@ -415,7 +461,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Geospatial lidar data production analyst role at Woolpert.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4467027009"
+      "applyUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4467027009",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_ge_1795564800000_20",
@@ -433,7 +481,9 @@
       "eligibility": "0-1 Years Experience",
       "summary": "Trainee engineer in sourcing analytics at GE HealthCare.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049575EXTERNALENGLOBAL"
+      "applyUrl": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049575EXTERNALENGLOBAL",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_general_1795564800000_21",
@@ -451,7 +501,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Associate analyst role in supply-chain analytics at General Mills' India centre.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-Analyst---Advanced-Analytics--GIC-SC-Analytics_10131754"
+      "applyUrl": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-Analyst---Advanced-Analytics--GIC-SC-Analytics_10131754",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_maersk_1795564800000_22",
@@ -469,7 +521,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level financial analyst role at Maersk, Pune.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Pune-411014/XMLNAME--Associate-Financial-Analyst_R203454-1"
+      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Pune-411014/XMLNAME--Associate-Financial-Analyst_R203454-1",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_citco_1795564800000_23",
@@ -487,7 +541,9 @@
       "eligibility": "0-2 Years Experience",
       "summary": "Market risk analyst role at Citco for early-career candidates.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15988"
+      "applyUrl": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15988",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_abb_1795564800000_24",
@@ -505,7 +561,9 @@
       "eligibility": "0-2 Years Experience",
       "summary": "Finance analyst role at ABB for early-career candidates.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://careers.abb/global/en/job/ABB1GLOBALJR00053896EXTERNALENGLOBAL"
+      "applyUrl": "https://careers.abb/global/en/job/ABB1GLOBALJR00053896EXTERNALENGLOBAL",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_sp_1795564800000_25",
@@ -522,7 +580,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Fresher operations analysis role at S&P Global.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Operations-Analysis-Analyst_332998-1"
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Operations-Analysis-Analyst_332998-1",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_huron_1795564800000_26",
@@ -540,7 +600,9 @@
       "eligibility": "0-1 Years Experience",
       "summary": "Centralized financial management analyst role at Huron.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---South-3rd-Floor/Centralized-Financial-Management-Analyst_JR-0017275"
+      "applyUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---South-3rd-Floor/Centralized-Financial-Management-Analyst_JR-0017275",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_accenture_1795564800000_27",
@@ -557,7 +619,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Finance operations (record-to-report) associate role at Accenture.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Associate_AIOC-S01673886-1"
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Associate_AIOC-S01673886-1",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_wells_1795564800000_28",
@@ -575,7 +639,9 @@
       "eligibility": "Freshers only; graduate | Rotational shifts",
       "summary": "Call-centre role handling debit card fraud and disputed claims at Wells Fargo India.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Associate-Fraud---Claims-Operations-Representative-only-freshers_R-587953"
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Associate-Fraud---Claims-Operations-Representative-only-freshers_R-587953",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_hcltech_1795564800000_29",
@@ -592,7 +658,9 @@
       "eligibility": "Freshers",
       "summary": "Voice customer-care role for freshers at HCLTech.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://www.linkedin.com/jobs/view/4471445491/"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471445491/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_hcltech_1795564800000_30",
@@ -609,7 +677,9 @@
       "eligibility": "Freshers",
       "summary": "International voice AR caller role for freshers at HCLTech.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://www.linkedin.com/jobs/view/4493635332/"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493635332/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_slice_1795564800000_31",
@@ -626,7 +696,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Customer experience executive role at slice.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://www.linkedin.com/jobs/view/4493287194/"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493287194/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_digitide_1795564800000_32",
@@ -643,7 +715,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Customer service associate role for freshers at Digitide.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://iaceiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/272839"
+      "applyUrl": "https://iaceiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/272839",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_kotak_1795564800000_33",
@@ -660,7 +734,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Inbound contact-centre officer role for Kotak 811.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/276400"
+      "applyUrl": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/276400",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_sensata_1795564800000_34",
@@ -677,7 +753,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level customer service representative role at Sensata.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Pune-India/Customer-Service-Representative_IRC98775"
+      "applyUrl": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Pune-India/Customer-Service-Representative_IRC98775",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_first_1795564800000_35",
@@ -694,7 +772,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Process associate role at First American's Salem centre.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://firstam.wd1.myworkdayjobs.com/faicareers/job/IND-Tamil-Nadu-Salem/Process-Associate_R059664"
+      "applyUrl": "https://firstam.wd1.myworkdayjobs.com/faicareers/job/IND-Tamil-Nadu-Salem/Process-Associate_R059664",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_kotak_1795564800000_36",
@@ -712,7 +792,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Digital sales relationship officer for Kotak 811.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/276306"
+      "applyUrl": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/276306",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_piramal_1795564800000_37",
@@ -729,7 +811,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level field sales role at Piramal Pharma.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://piramalpharma.wd102.myworkdayjobs.com/PIRAMAL_EXTERNAL_CAREERS/job/Uttar-Pradesh/Area-Sales-Officer_R00004745"
+      "applyUrl": "https://piramalpharma.wd102.myworkdayjobs.com/PIRAMAL_EXTERNAL_CAREERS/job/Uttar-Pradesh/Area-Sales-Officer_R00004745",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_2coms_1795564800000_38",
@@ -746,7 +830,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Field sales role for freshers promoting Bajaj Pay Metro Card.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://2coms.zohorecruit.in/jobs/Careers/25955002912243418"
+      "applyUrl": "https://2coms.zohorecruit.in/jobs/Careers/25955002912243418",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_39",
@@ -764,7 +850,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56885"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56885",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_40",
@@ -782,7 +870,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57613"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57613",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_41",
@@ -800,7 +890,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57592"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57592",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_42",
@@ -818,7 +910,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57607"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57607",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_43",
@@ -836,7 +930,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57606"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57606",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_44",
@@ -854,7 +950,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57605"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57605",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_45",
@@ -872,7 +970,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57604"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57604",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_46",
@@ -890,7 +990,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/48031"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/48031",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_47",
@@ -908,7 +1010,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57715"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57715",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_48",
@@ -926,7 +1030,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57694"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57694",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_49",
@@ -944,7 +1050,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57699"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57699",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_50",
@@ -962,7 +1070,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57732"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57732",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_51",
@@ -980,7 +1090,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57710"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57710",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_52",
@@ -998,7 +1110,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57696"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57696",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_1795564800000_53",
@@ -1016,7 +1130,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level finance field/branch role at Tata Capital.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57719"
+      "applyUrl": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57719",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_baker_1795564800000_54",
@@ -1033,7 +1149,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level field specialist (wireline) role at Baker Hughes.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-TALOJA-SRV-NO-991A3--991A2-PT-VILAGE-VAVANJE-RAIGAD-DIS/Field-Specialist-I-WLE_R170955"
+      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-TALOJA-SRV-NO-991A3--991A2-PT-VILAGE-VAVANJE-RAIGAD-DIS/Field-Specialist-I-WLE_R170955",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_baxter_1795564800000_55",
@@ -1050,7 +1168,9 @@
       "eligibility": "B.Pharm / M.Pharm / M.Sc (Entry level)",
       "summary": "Entry-level formulation research associate role at Baxter.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Ahmedabad-Gujarat/Research-Associate-I_JR-207673"
+      "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Ahmedabad-Gujarat/Research-Associate-I_JR-207673",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_rj_1795564800000_56",
@@ -1067,7 +1187,9 @@
       "eligibility": "0-1 Years Experience",
       "summary": "Trainee chemist in beverage quality assurance at RJ Corp.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://rjcorphcm-iacbiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4350"
+      "applyUrl": "https://rjcorphcm-iacbiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4350",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_rj_1795564800000_57",
@@ -1084,7 +1206,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Trainee associate in beverage processing at RJ Corp.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://rjcorphcm-iacbiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4351"
+      "applyUrl": "https://rjcorphcm-iacbiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4351",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_waste_1795564800000_58",
@@ -1101,7 +1225,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level HR operations role at Waste Management.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355611"
+      "applyUrl": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355611",
+      "field": "HR & Management",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_accor_1795564800000_59",
@@ -1118,7 +1244,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Hotel concierge executive role at Accor.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000162723739-concierge-executive"
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000162723739-concierge-executive",
+      "field": "Hospitality",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_accor_1795564800000_60",
@@ -1135,7 +1263,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Front-office guest service associate at an Accor hotel.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000162952459-gsa-front-office-"
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000162952459-gsa-front-office-",
+      "field": "Hospitality",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_marriott_1795564800000_61",
@@ -1152,7 +1282,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level hotel operations role at Marriott.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26152399"
+      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26152399",
+      "field": "Hospitality",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_marriott_1795564800000_62",
@@ -1169,7 +1301,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level hotel operations role at Marriott.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26152967"
+      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26152967",
+      "field": "Hospitality",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_marriott_1795564800000_63",
@@ -1186,7 +1320,9 @@
       "eligibility": "Fresher / Entry level (0 years)",
       "summary": "Entry-level hotel operations role at Marriott.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26153063"
+      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26153063",
+      "field": "Hospitality",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_baxter_1795564800000_64",
@@ -1202,7 +1338,9 @@
       "eligibility": "Apprentice (fresh graduate)",
       "summary": "Apprentice role at Baxter's Bengaluru centre.",
       "publishedMillis": 1795564800000,
-      "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Apprentice_JR-213466"
+      "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Bangalore-Karnataka/Apprentice_JR-213466",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_microsoft_200059251",
@@ -1223,7 +1361,9 @@
       "eligibility": "2026 Bachelor’s graduate in CS, Engineering or related field | No active backlogs | No prior full-time employment",
       "summary": "Full-time apprenticeship building and testing software features, collaborating with stakeholders, writing reusable code and maintaining documentation.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022190"
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022190",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_delta_27802",
@@ -1244,7 +1384,9 @@
       "eligibility": "Bachelor’s or Master’s in CS, IT or related | 0–2 years (internships/projects count)",
       "summary": "Develop secure, scalable payment solutions for Delta’s digital commerce. Work on backend services, APIs and cloud applications with AI-assisted tools.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.delta.com/us/en/careers (search REF #27802)"
+      "applyUrl": "https://www.delta.com/us/en/careers (search REF #27802)",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_hcl_l1_noida",
@@ -1263,7 +1405,9 @@
       "eligibility": "Any graduate | Freshers (0–1 year)",
       "summary": "Provide L1 remote desktop support, hardware and network troubleshooting for enterprise clients.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/hcltech-hiring-analyst-support-operations-noida-2"
+      "applyUrl": "https://www.talentd.in/jobs/hcltech-hiring-analyst-support-operations-noida-2",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_hcl_tools_bengaluru",
@@ -1282,7 +1426,9 @@
       "eligibility": "Any graduate | Freshers",
       "summary": "Work on tools and automation for desk-side services, asset management and ITIL processes.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/hcltech-engineer-desk-side-services-jobs-in-bangalore-apply-now"
+      "applyUrl": "https://www.talentd.in/jobs/hcltech-engineer-desk-side-services-jobs-in-bangalore-apply-now",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_yash_net_hyderabad",
@@ -1302,7 +1448,9 @@
       "eligibility": "Any graduate | Freshers",
       "summary": "Trainee role developing full-stack applications using .NET Core, Azure and React.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/yash-technologies-hiring-trainee-net-core-in-hyderabad-freshers"
+      "applyUrl": "https://www.talentd.in/jobs/yash-technologies-hiring-trainee-net-core-in-hyderabad-freshers",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_ibm_frontend_mumbai",
@@ -1324,7 +1472,9 @@
       "eligibility": "Any graduate | Freshers",
       "summary": "Develop front-end applications with modern web technologies in a hybrid setup.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/ibm-mumbai-hiring-application-developer-front-end-hybrid"
+      "applyUrl": "https://www.talentd.in/jobs/ibm-mumbai-hiring-application-developer-front-end-hybrid",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_kpmg_actuarial_bengaluru",
@@ -1344,7 +1494,9 @@
       "eligibility": "Any graduate | Freshers",
       "summary": "Perform health actuarial analysis using statistical and data tools.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/kpmg-bangalore-hiring-health-actuarial-analyst-closes-dec-2026"
+      "applyUrl": "https://www.talentd.in/jobs/kpmg-bangalore-hiring-health-actuarial-analyst-closes-dec-2026",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_americanexpress_1795478400000_20",
@@ -1365,7 +1517,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly accepted; candidates with analytics, model-development or model-validation exposure",
       "summary": "Review AI and machine-learning models used in areas such as credit, fraud and marketing, assess model risk controls and communicate findings.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016183"
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016183",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_zensar_1795478400000_21",
@@ -1386,7 +1540,9 @@
       "eligibility": "0–5 years experience | Freshers explicitly accepted; applicants should demonstrate ServiceNow/platform skills. Apply-by date listed as 26 November 2026.",
       "summary": "Develop and customise ServiceNow applications and workflows, configure forms and business rules and build REST/API integrations.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153470"
+      "applyUrl": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153470",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_deloitte_salesforce_qa",
@@ -1406,7 +1562,9 @@
       "eligibility": "Freshers welcome | 0–3 years",
       "summary": "QA analyst for Salesforce CPQ implementations, testing and process adherence.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://southasiacareers.deloitte.com/job/Delhi-T&T-Customer-S&S-Analyst-SFDC-QA-Delhi/61648844/"
+      "applyUrl": "https://southasiacareers.deloitte.com/job/Delhi-T&T-Customer-S&S-Analyst-SFDC-QA-Delhi/61648844/",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_ibm_1795392000000_9",
@@ -1426,7 +1584,9 @@
       "eligibility": "B.E./B.Tech in Electronics, Electronics & Communications or IT | 0 years experience; freshers | No backlogs at selection",
       "summary": "Install, maintain and repair IBM and multi-vendor systems, support hardware and operating systems and act as a technical contact for customers.",
       "publishedMillis": 1795392000000,
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=142095"
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=142095",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_wipro_1795392000000_23",
@@ -1446,7 +1606,9 @@
       "eligibility": "Entry-level role; freshers explicitly welcome in the fresher listing. Detailed experience requirements should be reconfirmed on the employer page.",
       "summary": "Provide first-line service desk support, handle user tickets, assist with customer issues and maintain support records.",
       "publishedMillis": 1795392000000,
-      "applyUrl": "https://careers.wipro.com/job/SERVICE-DESK-ANALYST-L1/211729-en_US"
+      "applyUrl": "https://careers.wipro.com/job/SERVICE-DESK-ANALYST-L1/211729-en_US",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_jpmorganchase_1795392000000_10",
@@ -1468,7 +1630,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly accepted; bachelor’s degree preferred. Apply-by date listed as 27 November 2026.",
       "summary": "Improve client-onboarding workflows using Python, dashboards, analytics and automation, including AI-assisted document extraction and validation.",
       "publishedMillis": 1795392000000,
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811527"
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811527",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_thinkbridge_1795392000000_11",
@@ -1491,7 +1655,9 @@
       "eligibility": "Freshers (0–1 years) | Fresh graduates or full-stack certificate holders with strong programming and SQL fundamentals",
       "summary": "Complete an engineering assessment and training programme, then work on real software projects with mentorship during probation.",
       "publishedMillis": 1795392000000,
-      "applyUrl": "https://thinkbridge.zohorecruit.in/jobs/Careers/40078000019821702/Apprentice-Software-Engineer?source=CareerSite"
+      "applyUrl": "https://thinkbridge.zohorecruit.in/jobs/Careers/40078000019821702/Apprentice-Software-Engineer?source=CareerSite",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_honeywell_security",
@@ -1513,7 +1679,9 @@
       "eligibility": "Freshers | Batch 2024–2026",
       "summary": "Product security operations role involving PKI, scripting and security tooling.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/freshers"
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_citi_fraud",
@@ -1532,7 +1700,9 @@
       "eligibility": "Freshers | Batch 2023–2026",
       "summary": "Handle fraud operations, chargebacks and credit card processing support.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/freshers"
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_hcl_chat_support",
@@ -1551,7 +1721,9 @@
       "eligibility": "Freshers | Batch 2025, 2026",
       "summary": "Provide chat-based customer support and L1 technical assistance.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/freshers"
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_hcl_support_admin",
@@ -1570,7 +1742,9 @@
       "eligibility": "Freshers | Batch 2025, 2026",
       "summary": "Administer support processes, incident management and root cause analysis.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/freshers"
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tata_jr_executive",
@@ -1590,7 +1764,9 @@
       "eligibility": "Freshers | Batch 2024–2026",
       "summary": "Support program management for telecom services, order and SLA tracking.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/freshers"
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "HR & Management",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_northern_trust_ops",
@@ -1609,7 +1785,9 @@
       "eligibility": "Freshers | Batch 2025, 2026",
       "summary": "Support operations analysis, risk tracking and regulatory reporting.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/northern-trust-hiring-analyst-in-pune-freshers-eligible"
+      "applyUrl": "https://www.talentd.in/jobs/northern-trust-hiring-analyst-in-pune-freshers-eligible",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_iqvia_clinical",
@@ -1628,7 +1806,9 @@
       "eligibility": "Freshers | Batch 2025, 2026",
       "summary": "Manage and review clinical data, coding and database design support.",
       "publishedMillis": 1763856000000,
-      "applyUrl": "https://www.talentd.in/jobs/iqvia-is-hiring-clin-data-spec-kolkata-healthcare-data-role"
+      "applyUrl": "https://www.talentd.in/jobs/iqvia-is-hiring-clin-data-spec-kolkata-healthcare-data-role",
+      "field": "Other",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_apple_1795324740001",
@@ -1650,7 +1830,9 @@
       "eligibility": "B.S./B.E./B.Tech in Computer Science, Computer Engineering, or related technical field | 0–2 Years Experience",
       "summary": "Build and ship features across the data model, services, APIs, and UI of enterprise web applications and agentic workflows for Apple's Enterprise Technology Services.",
       "publishedMillis": 1794816000000,
-      "applyUrl": "https://jobs.apple.com/en-in/details/200694892-1052/junior-fullstack-engineer-ets?team=SFTWR"
+      "applyUrl": "https://jobs.apple.com/en-in/details/200694892-1052/junior-fullstack-engineer-ets?team=SFTWR",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_apple_1795324740002",
@@ -1670,7 +1852,9 @@
       "eligibility": "B.E./B.Tech in Computer Science or related technical field | Entry-Level / Freshers",
       "summary": "Develop automated testing frameworks and validate enterprise sales engineering software systems at Apple Bengaluru.",
       "publishedMillis": 1795161600000,
-      "applyUrl": "https://jobs.apple.com/en-in/details/200694886/junior-software-development-engineer-in-test-sales-engineering"
+      "applyUrl": "https://jobs.apple.com/en-in/details/200694886/junior-software-development-engineer-in-test-sales-engineering",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_wipro_1795324740003",
@@ -1689,7 +1873,9 @@
       "eligibility": "Any Graduate | 0 Years Experience (Freshers Only)",
       "summary": "Perform non-voice digital cartography, spatial data validation, and mapping operations at Wipro Financial District campus, Hyderabad.",
       "publishedMillis": 1795507200000,
-      "applyUrl": "https://www.naukri.com/job-listings-wipro-drive-for-freshers-mapping-role-25th-to-27th-november-wipro-hyderabad-0-to-0-years-131126017154"
+      "applyUrl": "https://www.naukri.com/job-listings-wipro-drive-for-freshers-mapping-role-25th-to-27th-november-wipro-hyderabad-0-to-0-years-131126017154",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_hcltech_1795324740004",
@@ -1708,7 +1894,9 @@
       "eligibility": "Bachelor's degree in Arts & Science (2024–2026 pass-outs; B.E./B.Tech/MCA/M.Sc IT not eligible) | 0–1 Years Experience",
       "summary": "Handle international voice process queries, manage accounts receivable follow-ups, and deliver first-contact resolution at HCLTech Navalur, Chennai.",
       "publishedMillis": 1795420800000,
-      "applyUrl": "https://www.naukri.com/job-listings-process-associate-walkin-interview-25th-nov-hcltech-chennai-0-to-1-years-231126020541"
+      "applyUrl": "https://www.naukri.com/job-listings-process-associate-walkin-interview-25th-nov-hcltech-chennai-0-to-1-years-231126020541",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tcs_1795324740005",
@@ -1727,7 +1915,9 @@
       "eligibility": "Any Graduate | 0 Years Experience (Freshers)",
       "summary": "Execute back-office business process operations, data validation, and transaction processing across TCS delivery centers.",
       "publishedMillis": 1794556800000,
-      "applyUrl": "https://www.naukri.com/job-listings-back-office-operations-tata-consultancy-services-pune-0-to-0-years-131126015530"
+      "applyUrl": "https://www.naukri.com/job-listings-back-office-operations-tata-consultancy-services-pune-0-to-0-years-131126015530",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_infosysbpm_1795324740006",
@@ -1746,7 +1936,9 @@
       "eligibility": "Graduates (Postgraduates not eligible) | 0–1 Years Experience",
       "summary": "Manage backend data workflows, quality checks, and operational reporting at Infosys BPM Hinjewadi Phase-3, Pune.",
       "publishedMillis": 1794988800000,
-      "applyUrl": "https://www.naukri.com/job-listings-fresher-backend-operations-infosys-bpm-walk-in-saturday-21-november-naukri-e-hire-campaign-pune-0-to-1-years-181126016549"
+      "applyUrl": "https://www.naukri.com/job-listings-fresher-backend-operations-infosys-bpm-walk-in-saturday-21-november-naukri-e-hire-campaign-pune-0-to-1-years-181126016549",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_bondada_1795324740007",
@@ -1766,7 +1958,9 @@
       "eligibility": "B.Tech in Mechanical Engineering (2026 pass-outs / freshers) | 0–1 Years Experience",
       "summary": "Assist production and engineering teams with technical drawings, project execution, quality compliance, and operational reporting.",
       "publishedMillis": 1794988800000,
-      "applyUrl": "https://www.naukri.com/job-listings-graduate-engineer-trainee-get-b-tech-mechanical-engineering-bondada-engineering-pvt-ltd-hyderabad-0-to-1-years-181126506215"
+      "applyUrl": "https://www.naukri.com/job-listings-graduate-engineer-trainee-get-b-tech-mechanical-engineering-bondada-engineering-pvt-ltd-hyderabad-0-to-1-years-181126506215",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_zydus_1795324740008",
@@ -1786,7 +1980,9 @@
       "eligibility": "B.Pharm, B.Tech Industrial Engineering, or B.Tech Mechanical Engineering (2024–2026 pass-outs) | 0–1 Years Experience",
       "summary": "Support global demand and supply chain operations, inventory planning, logistics coordination, and data reporting at Zydus Corporate Office.",
       "publishedMillis": 1794902400000,
-      "applyUrl": "https://www.naukri.com/job-listings-walk-in-drive-for-freshers-for-one-year-apprenticeship-21-nov-26-zydus-lifesciences-ahmedabad-0-to-1-years-171126023713"
+      "applyUrl": "https://www.naukri.com/job-listings-walk-in-drive-for-freshers-for-one-year-apprenticeship-21-nov-26-zydus-lifesciences-ahmedabad-0-to-1-years-171126023713",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_cleanscience_1795324740009",
@@ -1805,7 +2001,9 @@
       "eligibility": "Diploma / B.Sc. / M.Sc. in Chemical, Analytical, Organic, or Inorganic Chemistry | 0–1 Years Experience",
       "summary": "Gain hands-on industrial manufacturing experience across Production, Effluent Treatment Plant (ETP), and Environment, Health & Safety (EHS) departments.",
       "publishedMillis": 1794816000000,
-      "applyUrl": "https://www.foundit.in/job/nats-apprentice-clean-science-and-technology-ltd-daund-69823578"
+      "applyUrl": "https://www.foundit.in/job/nats-apprentice-clean-science-and-technology-ltd-daund-69823578",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_dmart_1795324740010",
@@ -1825,7 +2023,9 @@
       "eligibility": "B.Com / Commerce Graduate Freshers | 0 Years Experience",
       "summary": "Handle purchase entries, vendor invoice verification, accounting reconciliations, and retail back-office finance operations.",
       "publishedMillis": 1795420800000,
-      "applyUrl": "https://www.naukri.com/job-listings-junior-accounts-officer-dmart-mumbai-navi-mumbai-0-to-0-years-231126020054"
+      "applyUrl": "https://www.naukri.com/job-listings-junior-accounts-officer-dmart-mumbai-navi-mumbai-0-to-0-years-231126020054",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_pacificglobal_1795324740011",
@@ -1844,7 +2044,9 @@
       "eligibility": "Fresh graduates or final-year students with EA/CPA qualification (minimum one tax paper cleared) | 0–1 Years Experience",
       "summary": "Prepare and review US federal and state tax returns in rotational shifts for international accounting clients.",
       "publishedMillis": 1795161600000,
-      "applyUrl": "https://www.naukri.com/job-listings-us-tax-preparer-pacific-global-solutions-mumbai-0-to-1-years-100826021753"
+      "applyUrl": "https://www.naukri.com/job-listings-us-tax-preparer-pacific-global-solutions-mumbai-0-to-1-years-100826021753",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_indianbank_1795324740012",
@@ -1863,7 +2065,9 @@
       "eligibility": "Any Graduate | 0–1 Years Experience",
       "summary": "Support branch banking operations, customer onboarding, and retail financial services under the Indian Bank Apprenticeship program.",
       "publishedMillis": 1794988800000,
-      "applyUrl": "https://www.naukri.com/job-listings-apprentice-indian-bank-new-delhi-0-to-1-years-171126505143"
+      "applyUrl": "https://www.naukri.com/job-listings-apprentice-indian-bank-new-delhi-0-to-1-years-171126505143",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_evoke_1795324740013",
@@ -1883,7 +2087,9 @@
       "eligibility": "MBA (2026 Batch) | 0–1 Years Experience",
       "summary": "Collaborate with cross-functional teams on business operations, client coordination, reporting, and process improvement initiatives.",
       "publishedMillis": 1795161600000,
-      "applyUrl": "https://www.naukri.com/job-listings-associate-trainee-evoke-technologies-hyderabad-0-to-1-years-201126025747"
+      "applyUrl": "https://www.naukri.com/job-listings-associate-trainee-evoke-technologies-hyderabad-0-to-1-years-201126025747",
+      "field": "HR & Management",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_simplilearn_1795324740014",
@@ -1902,7 +2108,9 @@
       "eligibility": "B.Tech/B.E., B.Sc (Computer Science), or BCA | 0 Years Experience (Freshers Only)",
       "summary": "Design structured technical learning modules, assessments, and curriculum content for online technology courses.",
       "publishedMillis": 1794988800000,
-      "applyUrl": "https://www.naukri.com/job-listings-instructional-designer-simplilearn-bengaluru-0-to-0-years-181126023711"
+      "applyUrl": "https://www.naukri.com/job-listings-instructional-designer-simplilearn-bengaluru-0-to-0-years-181126023711",
+      "field": "HR & Management",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_sagility_1795324740015",
@@ -1921,7 +2129,9 @@
       "eligibility": "B.Com, B.Sc, BBA, BA, B.Pharma (2024–2026 pass-outs; B.E./B.Tech/PG/Diploma not eligible) | 0–1 Years Experience",
       "summary": "Provide voice-based customer support for US healthcare clients at Sagility Hi-Tech City, Hyderabad.",
       "publishedMillis": 1795420800000,
-      "applyUrl": "https://www.naukri.com/job-listings-international-voice-process-executive-sagility-hyderabad-0-to-1-years-231126025030"
+      "applyUrl": "https://www.naukri.com/job-listings-international-voice-process-executive-sagility-hyderabad-0-to-1-years-231126025030",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_ienergizer_1795324740016",
@@ -1940,7 +2150,9 @@
       "eligibility": "Undergraduates or Graduates | 0–1 Years Experience",
       "summary": "Resolve customer and merchant payment and transaction queries across chat and voice channels at Kudlu Gate, Bengaluru.",
       "publishedMillis": 1795075200000,
-      "applyUrl": "https://www.naukri.com/job-listings-merchant-support-executive-ienergizer-bengaluru-0-to-1-years-191126033249"
+      "applyUrl": "https://www.naukri.com/job-listings-merchant-support-executive-ienergizer-bengaluru-0-to-1-years-191126033249",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_capita_1795324740017",
@@ -1960,7 +2172,9 @@
       "eligibility": "HSC, Graduates, or Post Graduates based in Pune (B.E./B.Tech/Diploma not eligible) | 0 Years Experience (Freshers Only)",
       "summary": "Complete a 6-month structured apprenticeship gaining hands-on experience in business operations, customer support, and data management.",
       "publishedMillis": 1794902400000,
-      "applyUrl": "https://www.naukri.com/job-listings-freshers-apprentice-trainee-capita-pune-0-to-0-years-141026017008"
+      "applyUrl": "https://www.naukri.com/job-listings-freshers-apprentice-trainee-capita-pune-0-to-0-years-141026017008",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_omega_1795324740018",
@@ -1979,7 +2193,9 @@
       "eligibility": "Any Graduate (Life Science not applicable) | 0 Years Experience (Freshers Only)",
       "summary": "Handle US healthcare revenue cycle management and accounts receivable voice calls at RMZ Millennia Business Park, Chennai.",
       "publishedMillis": 1795248000000,
-      "applyUrl": "https://www.naukri.com/job-listings-walkin-drive-voice-process-executive-immediate-joiner-omega-healthcare-chennai-0-to-0-years-211126009618"
+      "applyUrl": "https://www.naukri.com/job-listings-walkin-drive-voice-process-executive-immediate-joiner-omega-healthcare-chennai-0-to-0-years-211126009618",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_bizsol_1795324740019",
@@ -1998,7 +2214,9 @@
       "eligibility": "CA Inter / Commerce Graduates | 0–1 Years Experience",
       "summary": "Assist senior auditors and tax consultants with statutory audits, GST/tax compliance, and financial reporting.",
       "publishedMillis": 1795248000000,
-      "applyUrl": "https://www.naukri.com/job-listings-trainee-article-bizsol-india-pvt-ltd-pune-0-to-1-years-210226502191"
+      "applyUrl": "https://www.naukri.com/job-listings-trainee-article-bizsol-india-pvt-ltd-pune-0-to-1-years-210226502191",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_joulestowatts_1795324740020",
@@ -2018,7 +2236,9 @@
       "eligibility": "Any Graduate (Freshers with relevant internship experience welcome) | 0–1 Years Experience",
       "summary": "Drive B2B lead generation, client outreach, and account follow-ups for IT consulting services in Marathahalli, Bengaluru.",
       "publishedMillis": 1794816000000,
-      "applyUrl": "https://www.naukri.com/job-listings-business-development-executive-joulestowatts-bengaluru-0-to-1-years-161126022107"
+      "applyUrl": "https://www.naukri.com/job-listings-business-development-executive-joulestowatts-bengaluru-0-to-1-years-161126022107",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_ajaybhilare_1795324740021",
@@ -2037,7 +2257,9 @@
       "eligibility": "Any Graduate / 12th Pass | 0–1 Years Experience",
       "summary": "Maintain engineering project records, structural documentation, and digital spreadsheets in Pune.",
       "publishedMillis": 1795334400000,
-      "applyUrl": "https://www.naukri.com/job-listings-data-entry-operator-ajay-bhilare-structural-solutions-pune-0-to-1-years-211126016312"
+      "applyUrl": "https://www.naukri.com/job-listings-data-entry-operator-ajay-bhilare-structural-solutions-pune-0-to-1-years-211126016312",
+      "field": "Operations & Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_creativehands_1795324740022",
@@ -2057,7 +2279,9 @@
       "eligibility": "Any Graduate (2026 Freshers eligible) | 0–5 Years Experience",
       "summary": "Handle accounts payable and receivable reconciliations, billing entries, and day-shift finance operations across Mumbai MMR.",
       "publishedMillis": 1794384000000,
-      "applyUrl": "https://www.naukri.com/job-listings-accounts-finance-executive-freshers-2026-can-als-apply-creative-hands-hr-thane-navi-mumbai-mumbai-all-areas-0-to-5-years-111126015625"
+      "applyUrl": "https://www.naukri.com/job-listings-accounts-finance-executive-freshers-2026-can-als-apply-creative-hands-hr-thane-navi-mumbai-mumbai-all-areas-0-to-5-years-111126015625",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_hcltech_1795046400000_1",
@@ -2079,7 +2303,9 @@
       "eligibility": "B.E./B.Tech in CS, IT, AI, Data Science, Electronics or related engineering | 1–4 years stated, but freshers/entry-level candidates explicitly considered with strong GenAI projects, internships, certifications, GitHub or portfolio exposure",
       "summary": "Build GenAI applications, RAG pipelines and AI agents connected to enterprise data, APIs and workflows.",
       "publishedMillis": 1795046400000,
-      "applyUrl": "https://careers.hcltech.com/job/RPA-Developer-Core/134999-en_US"
+      "applyUrl": "https://careers.hcltech.com/job/RPA-Developer-Core/134999-en_US",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_citi_1795478400000_2",
@@ -2099,7 +2325,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly accepted; developing-professional role in application support",
       "summary": "Maintain and support business applications, analyse system issues and coordinate fixes or enhancements with development and production teams.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://citi.wd5.myworkdayjobs.com/2/job/CHENNAI-TAMIL-NADU--CHENNAI/Application-Support-Analyst_261001948"
+      "applyUrl": "https://citi.wd5.myworkdayjobs.com/2/job/CHENNAI-TAMIL-NADU--CHENNAI/Application-Support-Analyst_261001948",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_neweratechnology_1795478400000_3",
@@ -2120,7 +2348,9 @@
       "eligibility": "0–0.5 years experience | Graduate degree; freshers accepted. 24/7 shifts including nights and weekends may apply.",
       "summary": "Provide Level 1 internal IT support, resolve user issues over calls and tickets, document resolutions and escalate incidents when needed.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://job-boards.greenhouse.io/neweratech/jobs/8959858002"
+      "applyUrl": "https://job-boards.greenhouse.io/neweratech/jobs/8959858002",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_mittalgroup_1795478400000_4",
@@ -2142,7 +2372,9 @@
       "eligibility": "Diploma/Graduate in IT, Computer Science or related field | Freshers with strong technical knowledge and willingness to learn explicitly encouraged; experienced applicants also considered",
       "summary": "Support office IT systems, troubleshoot hardware, software and network issues, manage user accounts and maintain IT assets and records.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://mittalgroup.keka.com/careers/jobdetails/148291"
+      "applyUrl": "https://mittalgroup.keka.com/careers/jobdetails/148291",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_konecranes_1795478400000_5",
@@ -2164,7 +2396,9 @@
       "eligibility": "Bachelor’s degree in Computer Science, IT or related field | 0–1 years experience",
       "summary": "Handle global IT service requests, assess and escalate incidents, support IT projects and assist with user acceptance testing.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://jobs.smartrecruiters.com/Konecranes/744000163389929"
+      "applyUrl": "https://jobs.smartrecruiters.com/Konecranes/744000163389929",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_johnsoncontrols_1795478400000_6",
@@ -2185,7 +2419,9 @@
       "eligibility": "Freshers (0–1 years) | Recent graduates in Computer Science, IT or related discipline",
       "summary": "Support Oracle enterprise applications, troubleshoot functional and technical issues, document processes and help test new features.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://jci.wd5.myworkdayjobs.com/Jci/job/Pune-Maharashtra-India/Graduate-Engineer-Trainee---Data-AI_WD30286087"
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/Jci/job/Pune-Maharashtra-India/Graduate-Engineer-Trainee---Data-AI_WD30286087",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_tysonfoods_1795478400000_7",
@@ -2207,7 +2443,9 @@
       "eligibility": "Bachelor’s degree in Computer Science, IT or Engineering | 0–1 years experience",
       "summary": "Monitor enterprise data platforms, investigate failed data loads, manage access and support data quality and integration operations.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Bangalore-India/Associate-Analyst-Application-support-MDM_R0498717"
+      "applyUrl": "https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Bangalore-India/Associate-Analyst-Application-support-MDM_R0498717",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_cencora_1795478400000_8",
@@ -2228,7 +2466,9 @@
       "eligibility": "Bachelor’s degree | 0–2 years experience; freshers explicitly considered",
       "summary": "Deploy and configure data and analytics applications, perform upgrades and patches, monitor system health and maintain configuration records.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://myhrabc.wd5.myworkdayjobs.com/global/job/Pune-India/Engineer-I--Data---Analytics-Systems---App-Administration_R2619299"
+      "applyUrl": "https://myhrabc.wd5.myworkdayjobs.com/global/job/Pune-India/Engineer-I--Data---Analytics-Systems---App-Administration_R2619299",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_microsoft_1795219200000_12",
@@ -2250,7 +2490,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly considered; Computer Science graduates with programming fundamentals and applied-AI interest",
       "summary": "Build AI features for Microsoft Fabric and Microsoft IQ, including LLM-powered capabilities and retrieval-augmented generation.",
       "publishedMillis": 1795219200000,
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557069836"
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557069836",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_microsoft_1795132800000_13",
@@ -2273,7 +2515,9 @@
       "eligibility": "Freshers (0–1 years) | Computer Science or IT graduates; internship, project or lab experience in systems/infrastructure is relevant",
       "summary": "Support Microsoft datacentre infrastructure, automate operating-system deployment and configuration and troubleshoot enterprise servers.",
       "publishedMillis": 1795132800000,
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557070761"
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557070761",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_chaosologytechnolo_1795219200000_14",
@@ -2294,7 +2538,9 @@
       "eligibility": "Freshers (0–1 years) | Recent graduates or candidates with up to one year of process-analysis experience; night shift",
       "summary": "Review IT workflows, identify process gaps, improve service delivery through ITSM practices and report on process efficiency.",
       "publishedMillis": 1795219200000,
-      "applyUrl": "https://chaosology.zohorecruit.com/jobs/Careers/569149000014137004/Junior-Process-Analyst?source=CareerSite"
+      "applyUrl": "https://chaosology.zohorecruit.com/jobs/Careers/569149000014137004/Junior-Process-Analyst?source=CareerSite",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_chaosologytechnolo_1795219200000_15",
@@ -2316,7 +2562,9 @@
       "eligibility": "Freshers (0–1 years) | Recent graduates with foundational programming knowledge",
       "summary": "Write, test, debug and maintain software applications under senior developer guidance as part of a development team.",
       "publishedMillis": 1795219200000,
-      "applyUrl": "https://chaosology.zohorecruit.com/jobs/Careers/569149000008791001/Junior-Software-developer?source=CareerSite"
+      "applyUrl": "https://chaosology.zohorecruit.com/jobs/Careers/569149000008791001/Junior-Software-developer?source=CareerSite",
+      "field": "Tech & Engineering",
+      "type": "Tech"
     },
     {
       "id": "auto_eaton_1795478400000_16",
@@ -2337,7 +2585,9 @@
       "eligibility": "0–3 years experience | Freshers explicitly accepted; electronics graduates",
       "summary": "Analyse component and PCB data, support electronics category strategies and collaborate with procurement, product development and suppliers.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://eaton.eightfold.ai/careers/job/687240317321"
+      "applyUrl": "https://eaton.eightfold.ai/careers/job/687240317321",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_eaton_1795132800000_17",
@@ -2357,7 +2607,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly accepted; Master’s degree in Electrical Engineering or related field preferred",
       "summary": "Build and validate electromagnetic models for electrical products and provide engineering analysis and design recommendations.",
       "publishedMillis": 1795132800000,
-      "applyUrl": "https://eaton.eightfold.ai/careers/job/687239995759"
+      "applyUrl": "https://eaton.eightfold.ai/careers/job/687239995759",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_eaton_1795132800000_18",
@@ -2377,7 +2629,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly accepted; Master’s degree in Mechanical, Fluids or Thermal Engineering preferred",
       "summary": "Perform flow and thermal simulations for circuit protection products and validate models used in product engineering.",
       "publishedMillis": 1795132800000,
-      "applyUrl": "https://eaton.eightfold.ai/careers/job/687239950319"
+      "applyUrl": "https://eaton.eightfold.ai/careers/job/687239950319",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_infineon_1795478400000_19",
@@ -2398,7 +2652,9 @@
       "eligibility": "0–3 years experience | Freshers explicitly accepted; electronics or telecommunications graduates",
       "summary": "Test and validate wireless radio chips, run RF lab measurements, debug modules, maintain test setups and document results.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808972414357"
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808972414357",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_tazapay_1795478400000_22",
@@ -2420,7 +2676,9 @@
       "eligibility": "0–2 years experience | Freshers explicitly considered; strong graduates with relevant internships or projects encouraged",
       "summary": "Build finance reports and dashboards, support budgeting and forecasting, validate data and automate recurring FP&A processes.",
       "publishedMillis": 1795478400000,
-      "applyUrl": "https://tazapay.zohorecruit.in/jobs/Careers/39566000007649315/Data-Analyst-India?source=CareerSite"
+      "applyUrl": "https://tazapay.zohorecruit.in/jobs/Careers/39566000007649315/Data-Analyst-India?source=CareerSite",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_cummins_1795132800000_24",
@@ -2442,7 +2700,9 @@
       "eligibility": "0+ years experience | Diploma or equivalent STEM qualification; fresh graduates may apply",
       "summary": "Create and maintain product specifications, 3D models, engineering drawings and engineering BOMs, supporting configuration control and drawing quality.",
       "publishedMillis": 1795132800000,
-      "applyUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/2432196"
+      "applyUrl": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/2432196",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_ikshealth_1795219200000_25",
@@ -2464,7 +2724,9 @@
       "eligibility": "0–2 years experience | Employer posting explicitly describes this as an entry-level role suitable for freshers",
       "summary": "Develop KPI reporting, analyse revenue-cycle performance, translate business requirements into data solutions and present operational insights.",
       "publishedMillis": 1795219200000,
-      "applyUrl": "https://eiyi.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/7594"
+      "applyUrl": "https://eiyi.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/7594",
+      "field": "Data & Analytics",
+      "type": "Tech"
     },
     {
       "id": "auto_surveysparrow_1795132800000_26",
@@ -2487,7 +2749,9 @@
       "eligibility": "0–2 years experience in Business Development, Inside Sales, SDR or BDR roles; entry-level applicants may apply. CRM/helpdesk/ITSM exposure preferred.",
       "summary": "Research customer accounts, identify cross-sell opportunities and generate qualified expansion leads through calls, email and LinkedIn outreach.",
       "publishedMillis": 1795132800000,
-      "applyUrl": "https://surveysparrow.keka.com/careers/jobdetails/96375"
+      "applyUrl": "https://surveysparrow.keka.com/careers/jobdetails/96375",
+      "field": "Finance & Banking",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_iamneo_1795219200000_27",
@@ -2509,7 +2773,9 @@
       "eligibility": "Bachelor’s degree in any discipline | Freshers or candidates with up to 1 year of relevant experience",
       "summary": "Support customer-success operations, coordinate client onboarding, track requests, maintain reports and help resolve platform queries.",
       "publishedMillis": 1795219200000,
-      "applyUrl": "https://iamneo.keka.com/careers/jobdetails/171095"
+      "applyUrl": "https://iamneo.keka.com/careers/jobdetails/171095",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     },
     {
       "id": "auto_exl_1795132800000_28",
@@ -2530,7 +2796,9 @@
       "eligibility": "Graduation | 0–1 years experience; fresher-level role",
       "summary": "Handle customer calls and emails, answer enquiries, resolve or escalate issues and maintain accurate records while meeting service-quality targets.",
       "publishedMillis": 1795132800000,
-      "applyUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22462"
+      "applyUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22462",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
     }
   ]
 }
