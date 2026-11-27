@@ -1,8 +1,288 @@
 {
-  "generatedAtUtc": "2026-11-26T12:27:40.428890Z",
-  "generatedAtIst": "Today, 05:54 PM IST",
-  "totalCount": 294,
+  "generatedAtUtc": "2026-11-27T12:00:00+00:00",
+  "generatedAtIst": "Today, 05:30 PM IST",
+  "totalCount": 358,
   "jobs": [
+    {
+      "id": "pwc_internal_audit_associate_hyd",
+      "role": "Internal Audit Associate",
+      "company": "PwC",
+      "location": "Hyderabad, India",
+      "workMode": "Not specified",
+      "ctc": "₹7–10 LPA",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Auditing",
+        "Compliance Auditing",
+        "Data Analysis",
+        "Financial Accounting"
+      ],
+      "eligibility": "2025 and 2026 graduates, no experience needed. Apply by 10 Dec 2026",
+      "summary": "Internal audit associate in PwC's audit and assurance practice, working on internal audit services for clients across industries.",
+      "publishedMillis": 1795773600000,
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/Audit-and-Assurance---Internal-Audit---Associate---CS---G_DB_010200-1",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "texas_instruments_applications_engineer_blr",
+      "role": "Applications Engineer",
+      "company": "Texas Instruments",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "₹20–38 LPA",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Analog Circuits",
+        "Embedded Systems",
+        "Semiconductors",
+        "Technical Support"
+      ],
+      "eligibility": "2025 and 2026 graduates, no experience needed. Apply by 15 Mar 2027",
+      "summary": "Applications engineering role at a semiconductor company. The posting gives no description and points to the requisition on TI's careers site.",
+      "publishedMillis": 1795737600000,
+      "applyUrl": "https://careers.ti.com/en/sites/CX/job/25017673",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "genpact_associate_fa_ap_hyd",
+      "role": "Associate, F&A (Accounts Payable)",
+      "company": "Genpact",
+      "location": "Hyderabad, India",
+      "workMode": "Onsite",
+      "ctc": "₹3–4.5 LPA",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Invoice Processing",
+        "Microsoft Office",
+        "SAP",
+        "Account Reconciliation"
+      ],
+      "eligibility": "Bachelor's in Accounting, Commerce, Economics or Finance; 2025 and 2026 graduates. Apply by 26 Feb 2027",
+      "summary": "Non-voice Accounts Payable role: vendor invoice processing, vendor queries over email, and account reconciliations.",
+      "publishedMillis": 1795712400000,
+      "applyUrl": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Associate---F-A---AP-5A_JR10037627",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "foxconn_tech_eng_trainee_chennai",
+      "role": "Technology Engineering Trainee - EMS",
+      "company": "Foxconn",
+      "location": "Chennai, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Engineering",
+        "Technology",
+        "Mechanical",
+        "EMS"
+      ],
+      "eligibility": "0 Yrs experience; freshers eligible (Walk-in 27 Nov - 28 Nov 2026)",
+      "summary": "Entry-level technology and engineering trainee role in electronics manufacturing services.",
+      "publishedMillis": 1795651200000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
+      "field": "Core Engineering & Manufacturing",
+      "type": "Tech"
+    },
+    {
+      "id": "mydbops_junior_workflow_engineer",
+      "role": "Junior Workflow Engineer",
+      "company": "Mydbops",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Workflow Automation",
+        "Database Operations",
+        "Troubleshooting",
+        "Scripting"
+      ],
+      "eligibility": "Fresher-friendly entry-level listing; 0–1 years of experience.",
+      "summary": "Junior engineering opportunity supporting workflow and database-related operations.",
+      "publishedMillis": 1795651200000,
+      "applyUrl": "https://mydbops.keka.com/careers/jobdetails/145101",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "csb_bank_security_analyst_soc_ops",
+      "role": "Security Analyst - SOC Ops",
+      "company": "CSB Bank",
+      "location": "Ernakulam, Kerala, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "SOC Monitoring",
+        "Incident Escalation",
+        "Cybersecurity"
+      ],
+      "eligibility": "0–5 years of experience; fresher candidates are marked eligible in the listing.",
+      "summary": "Security operations centre analyst opportunity at a long-established bank.",
+      "publishedMillis": 1795651200000,
+      "applyUrl": "https://iaamcp.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSB/job/1136151",
+      "field": "Banking & Cybersecurity",
+      "type": "Tech"
+    },
+    {
+      "id": "meltwater_content_engineer",
+      "role": "Content Engineer",
+      "company": "Meltwater",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Hybrid",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "HTML",
+        "CSS",
+        "XPath",
+        "Regex",
+        "HTTP",
+        "Web Scraping"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level content engineering role involving web technologies and data extraction.",
+      "publishedMillis": 1795651200000,
+      "applyUrl": "https://jobs.jobvite.com/meltwater/job/okdhzfw7",
+      "field": "Content Technology & Data",
+      "type": "Tech"
+    },
+    {
+      "id": "hcl_noida_fresher_voice_28nov",
+      "role": "Customer Care Representative - Fresher",
+      "company": "HCLTech",
+      "location": "Noida, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Any Graduate / Undergraduate",
+      "skills": [
+        "Customer Support",
+        "Voice Process",
+        "Communication"
+      ],
+      "eligibility": "Freshers eligible",
+      "summary": "HCLTech fresher walk-in drive for voice process.",
+      "publishedMillis": 1795586846000,
+      "applyUrl": "https://in.linkedin.com/jobs/view/hcl-tech-walk-in-fresher-noida-28-nov-2026-at-hcltech-4494644456",
+      "field": "Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "noblq_software_dev_2026",
+      "role": "Software Developer - 2026 Batch",
+      "company": "Nobl Q",
+      "location": "Coimbatore, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2026 Graduates",
+      "skills": [
+        "Software Development",
+        "Problem Solving",
+        "Communication"
+      ],
+      "eligibility": "2026 pass-out freshers across specializations; min 60%, no standing arrears",
+      "summary": "Entry-level software development role for 2026 graduating batch.",
+      "publishedMillis": 1795564800000,
+      "applyUrl": "https://in.indeed.com/q-software-engineer-fresher-%E2%80%93-2026-batch-jobs.html",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "bhel_engineer_executive_trainee_2027",
+      "role": "Engineer / Executive Trainee (Engineering, IT/CS, HR and Finance disciplines)",
+      "company": "Bharat Heavy Electricals Limited (BHEL)",
+      "location": "Across India",
+      "workMode": "Not specified",
+      "ctc": "Engineer/Executive Trainee: basic pay ₹50,000/month during training; approximate CTC reported around ₹12 LPA",
+      "batch": "2027 recruitment",
+      "skills": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Electronics",
+        "Civil Engineering",
+        "IT/Computer Science",
+        "Human Resources",
+        "Finance"
+      ],
+      "eligibility": "Relevant full-time engineering degree for Engineer Trainee; prescribed postgraduate HR qualification for Executive Trainee (HR); CA/CMA for Executive Trainee (Finance). No prior professional experience specified in the trainee recruitment.",
+      "summary": "Part of BHEL's 415-post trainee recruitment drive; 200 Engineer/Executive Trainee vacancies across engineering, IT/CS, HR and Finance disciplines.",
+      "publishedMillis": 1795564800000,
+      "applyUrl": "https://careers.bhel.in/",
+      "field": "Engineering, IT, HR & Finance",
+      "type": "Government"
+    },
+    {
+      "id": "bhel_supervisor_trainee_2027",
+      "role": "Supervisor Trainee (Engineering, HR and Finance disciplines)",
+      "company": "Bharat Heavy Electricals Limited (BHEL)",
+      "location": "Across India",
+      "workMode": "Not specified",
+      "ctc": "Basic pay ₹32,000/month during training; approximate CTC reported around ₹7.5 LPA",
+      "batch": "2027 recruitment",
+      "skills": [
+        "Engineering Diploma",
+        "Mechanical",
+        "Electrical",
+        "Electronics",
+        "Civil",
+        "HR",
+        "Finance"
+      ],
+      "eligibility": "Relevant full-time engineering diploma; or prescribed BBA/BBM/BBS/BMS/Social Work degree for HR; or B.Com for Finance. No prior professional experience specified in the trainee recruitment.",
+      "summary": "Part of BHEL's 415-post trainee recruitment drive; 215 Supervisor Trainee vacancies across engineering, HR and Finance disciplines.",
+      "publishedMillis": 1795564800000,
+      "applyUrl": "https://careers.bhel.in/",
+      "field": "Engineering, HR & Finance",
+      "type": "Government"
+    },
+    {
+      "id": "wipro_service_desk_analyst_l1_kolkata",
+      "role": "Service Desk Analyst L1",
+      "company": "Wipro",
+      "location": "Kolkata, West Bengal, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "TIS Service Desk",
+        "Ticketing Tools",
+        "End-User Troubleshooting",
+        "Customer Support",
+        "MIS Reporting"
+      ],
+      "eligibility": "Entry-level listing marked freshers welcome; no prior experience duration stated.",
+      "summary": "First-line service desk role handling user queries, tickets and basic troubleshooting.",
+      "publishedMillis": 1795564800000,
+      "applyUrl": "https://careers.wipro.com/job/SERVICE-DESK-ANALYST-L1/221944-en_US",
+      "field": "Customer Support & IT Operations",
+      "type": "Tech"
+    },
+    {
+      "id": "amex_associate_tech_ops_engineering",
+      "role": "Associate - Tech Ops Engineering",
+      "company": "American Express",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Monitoring",
+        "Incident Management",
+        "Site Reliability Engineering",
+        "Production Support",
+        "Agile"
+      ],
+      "eligibility": "Entry-level listing marked freshers welcome; no experience duration stated.",
+      "summary": "Associate-level technology operations engineering role.",
+      "publishedMillis": 1795564800000,
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016932",
+      "field": "Tech Operations",
+      "type": "Tech"
+    },
     {
       "id": "auto_digitide_1795564800000_2",
       "role": "Trainee Software Engineer",
@@ -42,25 +322,6 @@
       "type": "Tech"
     },
     {
-      "id": "auto_exl_1795564800000_4",
-      "role": "Associate - LCNC Engineer",
-      "company": "EXL",
-      "location": "Noida, Uttar Pradesh, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "Low-Code/No-Code",
-        "Automation"
-      ],
-      "eligibility": "0-2 Years Experience",
-      "summary": "Low-code/no-code engineering role at EXL.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22896",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
       "id": "auto_jansoft_1795564800000_5",
       "role": "Software Developer",
       "company": "Jansoft Global",
@@ -75,25 +336,6 @@
       "summary": "Software developer opening at Jansoft Global for early-career candidates.",
       "publishedMillis": 1795564800000,
       "applyUrl": "https://jansoftglobal.zohorecruit.in/jobs/Careers/201027000004121577",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "auto_ncr_1795564800000_7",
-      "role": "Application Development Engineer (I)",
-      "company": "NCR Voyix",
-      "location": "Chennai, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Application Development",
-        "Software Engineering"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Entry-level application development engineer role at NCR Voyix.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Application-Development-Engineer--I-_R0158911",
       "field": "Tech & Engineering",
       "type": "Tech"
     },
@@ -136,26 +378,6 @@
       "type": "Tech"
     },
     {
-      "id": "auto_equifax_1795564800000_11",
-      "role": "Trainee Data Scientist",
-      "company": "Equifax",
-      "location": "Mumbai, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "Data Science",
-        "Python",
-        "Statistics"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Trainee data scientist role in Equifax Analytics, Mumbai.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://equifax.wd5.myworkdayjobs.com/External/job/IND-Mumbai-Equifax-Analytics/Trainee-Data-Scientist_J00180405",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
       "id": "auto_srm_1795564800000_12",
       "role": "Cloud NOC Analyst (L1)",
       "company": "SRM Technologies",
@@ -176,25 +398,6 @@
       "type": "Tech"
     },
     {
-      "id": "auto_srm_1795564800000_13",
-      "role": "Junior Database Administrator",
-      "company": "SRM Technologies",
-      "location": "Chennai, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "SQL",
-        "Databases"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Junior DBA role for freshers at SRM Technologies.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://srmtech.zohorecruit.com/jobs/Careers/664168000026718399",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
       "id": "auto_ntt_1795564800000_14",
       "role": "Monitoring Engineer - L1",
       "company": "NTT DATA",
@@ -210,25 +413,6 @@
       "summary": "Level-1 monitoring engineer in NTT DATA managed services.",
       "publishedMillis": 1795564800000,
       "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Mumbai-India/Monitoring-Engineer---L1_R-152764",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "auto_ntt_1795564800000_15",
-      "role": "MS Engineer - L1 (Collaboration)",
-      "company": "NTT DATA",
-      "location": "Mumbai, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Collaboration Tools",
-        "Managed Services"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Level-1 collaboration managed-services engineer at NTT DATA.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/NTT_Careers/job/Mumbai-India/MS-Engineer-L1_R-152766",
       "field": "Tech & Engineering",
       "type": "Tech"
     },
@@ -292,26 +476,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "auto_maersk_1795564800000_22",
-      "role": "Associate Financial Analyst",
-      "company": "Maersk",
-      "location": "Pune, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Finance",
-        "Accounting",
-        "Excel"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Entry-level financial analyst role at Maersk, Pune.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Pune-411014/XMLNAME--Associate-Financial-Analyst_R203454-1",
-      "field": "Finance, Analytics & Banking Operations",
-      "type": "Non-Tech"
-    },
-    {
       "id": "auto_citco_1795564800000_23",
       "role": "Market Risk Analyst",
       "company": "Citco",
@@ -328,84 +492,6 @@
       "summary": "Market risk analyst role at Citco for early-career candidates.",
       "publishedMillis": 1795564800000,
       "applyUrl": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15988",
-      "field": "Finance, Analytics & Banking Operations",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "auto_abb_1795564800000_24",
-      "role": "Finance Analyst",
-      "company": "ABB",
-      "location": "Bengaluru, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "Finance",
-        "Accounting",
-        "Excel"
-      ],
-      "eligibility": "0-2 Years Experience",
-      "summary": "Finance analyst role at ABB for early-career candidates.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://careers.abb/global/en/job/ABB1GLOBALJR00053896EXTERNALENGLOBAL",
-      "field": "Finance, Analytics & Banking Operations",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "auto_sp_1795564800000_25",
-      "role": "Operations Analysis Analyst",
-      "company": "S&P Global",
-      "location": "Gurugram, Haryana, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "Operations Analysis",
-        "Data Handling"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Fresher operations analysis role at S&P Global.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Operations-Analysis-Analyst_332998-1",
-      "field": "Finance, Analytics & Banking Operations",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "auto_huron_1795564800000_26",
-      "role": "Centralized Financial Management Analyst",
-      "company": "Huron",
-      "location": "Bengaluru, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "Finance",
-        "Financial Management",
-        "Excel"
-      ],
-      "eligibility": "0-1 Years Experience",
-      "summary": "Centralized financial management analyst role at Huron.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---South-3rd-Floor/Centralized-Financial-Management-Analyst_JR-0017275",
-      "field": "Finance, Analytics & Banking Operations",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "auto_accenture_1795564800000_27",
-      "role": "Record to Report Ops New Associate",
-      "company": "Accenture",
-      "location": "Gurugram, India",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Record to Report",
-        "Accounting"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Finance operations (record-to-report) associate role at Accenture.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Associate_AIOC-S01673886-1",
       "field": "Finance, Analytics & Banking Operations",
       "type": "Non-Tech"
     },
@@ -901,44 +987,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "auto_baker_1795564800000_54",
-      "role": "Field Specialist I - WLE",
-      "company": "Baker Hughes",
-      "location": "Taloja (Raigad), Maharashtra, India",
-      "workMode": "On-site",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Oilfield Services",
-        "Engineering"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Entry-level field specialist (wireline) role at Baker Hughes.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-TALOJA-SRV-NO-991A3--991A2-PT-VILAGE-VAVANJE-RAIGAD-DIS/Field-Specialist-I-WLE_R170955",
-      "field": "Core Engineering, Pharma & Manufacturing",
-      "type": "Core"
-    },
-    {
-      "id": "auto_baxter_1795564800000_55",
-      "role": "Research Associate I - Formulation ARD",
-      "company": "Baxter",
-      "location": "Ahmedabad, Gujarat, India",
-      "workMode": "On-site",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Formulation",
-        "Analytical R&D"
-      ],
-      "eligibility": "B.Pharm / M.Pharm / M.Sc (Entry level)",
-      "summary": "Entry-level formulation research associate role at Baxter.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Ahmedabad-Gujarat/Research-Associate-I_JR-207673",
-      "field": "Core Engineering, Pharma & Manufacturing",
-      "type": "Core"
-    },
-    {
       "id": "auto_rj_1795564800000_56",
       "role": "Trainee - Chemist (Beverage QA)",
       "company": "RJ Corp",
@@ -1034,25 +1082,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "auto_marriott_1795564800000_62",
-      "role": "Front Office Associate",
-      "company": "Marriott",
-      "location": "Bengaluru, Karnataka, India",
-      "workMode": "On-site",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Hospitality",
-        "Guest Service"
-      ],
-      "eligibility": "Fresher / Entry level (0 years)",
-      "summary": "Entry-level hotel operations role at Marriott.",
-      "publishedMillis": 1795564800000,
-      "applyUrl": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26152967",
-      "field": "Hospitality",
-      "type": "Non-Tech"
-    },
-    {
       "id": "auto_marriott_1795564800000_63",
       "role": "Reservations Associate",
       "company": "Marriott",
@@ -1090,6 +1119,287 @@
       "type": "Non-Tech"
     },
     {
+      "id": "wipro_graduate_trainee_developer_blr",
+      "role": "Graduate Trainee Developer (Associate Developer)",
+      "company": "Wipro",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "₹3.5–6.5 LPA",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Coding",
+        "Unit Testing",
+        "Documentation"
+      ],
+      "eligibility": "2025 and 2026 graduates, no experience needed. Apply by 30 Nov 2026",
+      "summary": "Entry-level development role: basic coding and unit testing under guidance, plus documentation of code and test results.",
+      "publishedMillis": 1795521600000,
+      "applyUrl": "https://careers.wipro.com/job/Chhindwara-NON-eng/221355-en_US/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "india_forge_get",
+      "role": "Graduate Engineer Trainee",
+      "company": "India Forge",
+      "location": "Faridabad, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Mechanical Engineering",
+      "skills": [
+        "Production",
+        "Quality"
+      ],
+      "eligibility": "Freshers or 0-1 year experience",
+      "summary": "Production and quality trainee positions.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://in.jobrapido.com/jobpreview/4585316260333486080?utm_source=bingjobs",
+      "field": "Manufacturing",
+      "type": "Tech"
+    },
+    {
+      "id": "johnson_controls_graduate_engineer_trainee_data_ai",
+      "role": "Graduate Engineer Trainee - Data/AI",
+      "company": "Johnson Controls",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Data/AI",
+        "Oracle Applications",
+        "SFDC",
+        "SVMAX",
+        "Problem Solving"
+      ],
+      "eligibility": "Fresher; 0–1 years of experience.",
+      "summary": "Graduate trainee opportunity supporting Data/AI-related business systems and applications.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/Jci/job/Pune-Maharashtra-India/Graduate-Engineer-Trainee---Data-AI_WD30286087",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "tazapay_data_analyst_fpa",
+      "role": "Data Analyst - FP&A",
+      "company": "Tazapay",
+      "location": "Chennai, Tamil Nadu, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "SQL",
+        "Python",
+        "pandas",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "Financial Planning & Analysis"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level financial planning and analysis role using data and reporting tools.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://tazapay.zohorecruit.in/jobs/Careers/39566000007649315/Data-Analyst-India?source=CareerSite",
+      "field": "Finance, Data & Analytics",
+      "type": "Tech"
+    },
+    {
+      "id": "ntt_data_ms_engineer_l1_collaboration",
+      "role": "MS Engineer L1 (Collaboration)",
+      "company": "NTT DATA",
+      "location": "Mumbai, Maharashtra, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Troubleshooting",
+        "Voice Systems",
+        "Contact Centre",
+        "IT Service Management"
+      ],
+      "eligibility": "Entry-level listing marked freshers welcome; no experience duration stated.",
+      "summary": "Level 1 support engineering role for collaboration and contact-centre systems.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://nttlimited.wd3.myworkdayjobs.com/ntt_careers/job/Mumbai-India/MS-Engineer-L1_R-152766",
+      "field": "Tech Support & IT Operations",
+      "type": "Tech"
+    },
+    {
+      "id": "cencora_engineer_data_analytics_systems",
+      "role": "Engineer I, Data & Analytics Systems",
+      "company": "Cencora",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Data Systems",
+        "Application Administration",
+        "ETL",
+        "Cloud Fundamentals"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level data and analytics systems engineering role.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://myhrabc.wd5.myworkdayjobs.com/global/job/Pune-India/Engineer-I--Data---Analytics-Systems---App-Administration_R2619299",
+      "field": "Data & Analytics",
+      "type": "Tech"
+    },
+    {
+      "id": "amex_analyst_data_science",
+      "role": "Analyst - Data Science",
+      "company": "American Express",
+      "location": "Gurugram, Haryana, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Analytics",
+        "Machine Learning",
+        "Big Data",
+        "Model Risk"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Early-career data science and analytics role.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016183",
+      "field": "Data Science & Analytics",
+      "type": "Tech"
+    },
+    {
+      "id": "konecranes_trainee_global_it_support",
+      "role": "Trainee, Global IT Technical Support",
+      "company": "Konecranes",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Hybrid",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Windows",
+        "Networking",
+        "ITIL",
+        "SCCM",
+        "Ticketing Tools",
+        "Customer Support"
+      ],
+      "eligibility": "Bachelor's degree in Computer Science, IT or related field; 0–1 years of experience. Apply-by date listed as 30 November 2026.",
+      "summary": "Full-time fixed-term trainee role in global IT service delivery and technical support.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://jobs.smartrecruiters.com/Konecranes/744000163389929",
+      "field": "IT Support & Operations",
+      "type": "Tech"
+    },
+    {
+      "id": "citi_application_support_analyst",
+      "role": "Application Support Analyst",
+      "company": "Citi",
+      "location": "Chennai, Tamil Nadu, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Application Support",
+        "Troubleshooting",
+        "Banking Applications",
+        "Server Infrastructure"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level application support role supporting banking applications and infrastructure.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://citi.wd5.myworkdayjobs.com/2/job/CHENNAI-TAMIL-NADU--CHENNAI/Application-Support-Analyst_261001948",
+      "field": "Banking Technology & IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "tyson_associate_analyst_app_support_mdm",
+      "role": "Associate Analyst, Application Support MDM",
+      "company": "Tyson Foods",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Master Data Management",
+        "Data Quality",
+        "ServiceNow",
+        "Python",
+        "REST APIs",
+        "GCP"
+      ],
+      "eligibility": "Fresher; 0–1 years of experience.",
+      "summary": "Entry-level application support and master-data management analyst role.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Bangalore-India/Associate-Analyst-Application-support-MDM_R0498717",
+      "field": "Data Management & IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "infineon_young_graduate_trainee",
+      "role": "Young Graduate Trainee",
+      "company": "Infineon",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "RF Validation",
+        "Wi-Fi 802.11",
+        "WLAN",
+        "Bluetooth",
+        "Lab Characterization",
+        "Python"
+      ],
+      "eligibility": "0–3 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Graduate trainee opportunity in wireless validation and lab characterization.",
+      "publishedMillis": 1795478400000,
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808972414357",
+      "field": "Electronics & Semiconductor Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "jpmorgan_operations_automation_analyst",
+      "role": "Operations Automation Analyst",
+      "company": "JPMorgan Chase",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Python",
+        "Power BI",
+        "Excel",
+        "Power Automate",
+        "Generative AI"
+      ],
+      "eligibility": "0–2 years of experience; freshers marked eligible. Listing showed an apply-by date of 27 November 2026.",
+      "summary": "Operations automation role using analytics, reporting and workflow automation tools.",
+      "publishedMillis": 1795392000000,
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811527",
+      "field": "Operations & Automation",
+      "type": "Tech"
+    },
+    {
+      "id": "thinkbridge_apprentice_software_engineer",
+      "role": "Apprentice Software Engineer",
+      "company": "thinkbridge",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "SQL",
+        "Algorithms",
+        "Pseudocode",
+        "Full Stack Development"
+      ],
+      "eligibility": "Fresher; 0–1 years of experience.",
+      "summary": "Apprentice software engineering role for candidates starting their development careers.",
+      "publishedMillis": 1795392000000,
+      "applyUrl": "https://thinkbridge.zohorecruit.in/jobs/Careers/40078000019821702/Apprentice-Software-Engineer?source=CareerSite",
+      "field": "Software Engineering",
+      "type": "Tech"
+    },
+    {
       "id": "auto_amazon_1795392000000_1",
       "role": "Software Dev Engineer I (University Graduates 2026)",
       "company": "Amazon",
@@ -1108,6 +1418,628 @@
       "publishedMillis": 1795392000000,
       "applyUrl": "https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition",
       "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "aryson_qe_trainee_noida",
+      "role": "QE Trainee",
+      "company": "Aryson Technologies",
+      "location": "Noida, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Quality Audit",
+        "Quality Standards",
+        "Production Engineering",
+        "Testing"
+      ],
+      "eligibility": "Freshers eligible; posted 4 days ago",
+      "summary": "Quality engineering trainee assisting with quality audits, standards, and process control.",
+      "publishedMillis": 1795305600000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "mastek_fresher_2026",
+      "role": "Fresher 2026",
+      "company": "Mastek",
+      "location": "Chennai, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2026",
+      "skills": [
+        "Technology",
+        "Software"
+      ],
+      "eligibility": "Freshers",
+      "summary": "Technology hiring for fresh graduates.",
+      "publishedMillis": 1795305600000,
+      "applyUrl": "https://in.jobrapido.com/jobpreview/8985187410983780352?utm_source=bingjobs",
+      "field": "IT",
+      "type": "Tech"
+    },
+    {
+      "id": "telesales_exec_isbm",
+      "role": "Telesales Executive",
+      "company": "Indian School of Business Management and Administration",
+      "location": "Secunderabad, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Graduates",
+      "skills": [
+        "Sales",
+        "CRM",
+        "Communication"
+      ],
+      "eligibility": "Bachelor's degree",
+      "summary": "Educational sales and telesales opportunity.",
+      "publishedMillis": 1795305600000,
+      "applyUrl": "https://in.jobrapido.com/jobpreview/5371541291228200960?utm_source=bingjobs",
+      "field": "Sales",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "ultraviolette_test_automation_engineer",
+      "role": "Test Automation Engineer",
+      "company": "Ultraviolette",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Python",
+        "PyQt",
+        "Robot Framework",
+        "CAN",
+        "dSPACE HIL"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level test automation role in the electric vehicle and embedded systems space.",
+      "publishedMillis": 1795219200000,
+      "applyUrl": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008213181/Test-Automation-Engineer?source=CareerSite",
+      "field": "Automotive & Test Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "flextrade_software_developer_ai",
+      "role": "Software Developer - AI",
+      "company": "FlexTrade",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "React",
+        "Angular",
+        "Python",
+        "Go",
+        "AWS",
+        "Large Language Models"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level AI-focused software development opportunity.",
+      "publishedMillis": 1795219200000,
+      "applyUrl": "https://careers.flextrade.com/o/software-developer-ai",
+      "field": "Software & AI Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "qbrainx_junior_associate_servicenow",
+      "role": "Junior Associate - ServiceNow Developer",
+      "company": "QBrainX",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "ServiceNow",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "XML"
+      ],
+      "eligibility": "Entry-level listing marked freshers welcome; no experience duration stated.",
+      "summary": "Junior ServiceNow development opportunity.",
+      "publishedMillis": 1795219200000,
+      "applyUrl": "https://qbrainx.zohorecruit.com/jobs/Careers/625705000010990001/Junior-Associate?source=CareerSite",
+      "field": "Software & Enterprise Platforms",
+      "type": "Tech"
+    },
+    {
+      "id": "hcl_nagpur_virtual_drive",
+      "role": "Customer Service Representative / Banking Backend",
+      "company": "HCLTech",
+      "location": "Nagpur, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Freshers",
+      "skills": [
+        "Customer Service",
+        "Email Support",
+        "Chat Support"
+      ],
+      "eligibility": "Freshers & early professionals",
+      "summary": "Virtual fresher hiring drive for Nagpur location.",
+      "publishedMillis": 1795155554000,
+      "applyUrl": "https://in.linkedin.com/jobs/view/hcltech-virtual-drive-fresher-hiring-nagpur-23-nov-2026-at-hcltech-4434479234",
+      "field": "Operations",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "pragma_ibm_maximo_trainee",
+      "role": "IBM Maximo Trainee (Fresher)",
+      "company": "Pragma Edge Software Services",
+      "location": "India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "HTML",
+        "CSS",
+        "Programming Fundamentals",
+        "Communication"
+      ],
+      "eligibility": "Freshers eligible; posted 6 days ago",
+      "summary": "Entry-level enterprise asset management trainee role on IBM Maximo.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "pragma_ai_dev_trainee_hyd",
+      "role": "AI Developer Trainee (Fresher)",
+      "company": "Pragma Edge Software Services",
+      "location": "Hyderabad, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Data Processing",
+        "Microsoft Azure",
+        "AWS",
+        "Cloud Development"
+      ],
+      "eligibility": "Freshers eligible; posted 6 days ago",
+      "summary": "Fresher AI developer trainee supporting cloud and data processing workflows.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
+      "field": "Data Science & AI",
+      "type": "Tech"
+    },
+    {
+      "id": "csir_multi_tasking_staff_2026",
+      "role": "Multi-Tasking Staff (MTS)",
+      "company": "Council of Scientific & Industrial Research (CSIR)",
+      "location": "New Delhi, India",
+      "workMode": "Onsite",
+      "ctc": "Pay Level 1: ₹18,000–₹56,900",
+      "batch": "Not specified",
+      "skills": [
+        "General Office Support",
+        "Record Handling",
+        "Basic Computer Work",
+        "Office Maintenance"
+      ],
+      "eligibility": "Matriculation / Class 10 pass; no prior professional experience requirement stated. 23 vacancies notified.",
+      "summary": "Non-technical Group C recruitment for office and support duties under CSIR.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://recruitment.csir.res.in/mts_2026/applicant_register.php",
+      "field": "Government & Administration",
+      "type": "Government"
+    },
+    {
+      "id": "eaton_engineer_flow_thermal",
+      "role": "Engineer - Flow & Thermal",
+      "company": "Eaton",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "CFD",
+        "Heat Transfer",
+        "Fluid Mechanics",
+        "Simulation"
+      ],
+      "eligibility": "0–2 years of experience; fresher candidates are explicitly marked eligible in the listing.",
+      "summary": "Entry-level engineering role focused on flow, thermal analysis and simulation.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://eaton.eightfold.ai/careers/job/687240025800",
+      "field": "Mechanical Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "qualcomm_cpu_engineer",
+      "role": "CPU - Engineer",
+      "company": "Qualcomm",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "Git",
+        "APIs"
+      ],
+      "eligibility": "Fresher; 0–1 years of experience.",
+      "summary": "Entry-level CPU engineering role.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446722024119",
+      "field": "Semiconductor & Embedded Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "qualcomm_engineer_camera",
+      "role": "Engineer - Camera",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangana, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "Git",
+        "Camera Systems"
+      ],
+      "eligibility": "0–1 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level camera engineering opportunity.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720848928",
+      "field": "Semiconductor & Embedded Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "exl_associate_lcnc_engineer",
+      "role": "Associate - LCNC Engineer",
+      "company": "EXL",
+      "location": "Uttar Pradesh, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Low-Code/No-Code",
+        "Process Automation",
+        "Troubleshooting",
+        "Documentation"
+      ],
+      "eligibility": "0–2 years of experience; freshers are marked eligible in the listing.",
+      "summary": "Entry-level low-code/no-code engineering and process automation role.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22896",
+      "field": "Software & Process Automation",
+      "type": "Tech"
+    },
+    {
+      "id": "cloudkaptan_apprentice_qa_trainee",
+      "role": "Apprentice (QA - Trainee)",
+      "company": "CloudKaptan",
+      "location": "India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "2026 batch",
+      "skills": [
+        "Java",
+        "SQL",
+        "API Testing",
+        "Salesforce",
+        "AWS"
+      ],
+      "eligibility": "2026 batch; fresher applicants.",
+      "summary": "Quality assurance apprenticeship for 2026 graduates.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://cloudkaptan.keka.com/careers/jobdetails/147274",
+      "field": "Software Testing & QA",
+      "type": "Tech"
+    },
+    {
+      "id": "oracle_associate_support_engineer",
+      "role": "Associate Support Engineer",
+      "company": "Oracle",
+      "location": "Bengaluru, Karnataka, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "System Configuration",
+        "Testing",
+        "Validation",
+        "Troubleshooting",
+        "Documentation"
+      ],
+      "eligibility": "Entry-level listing marked freshers welcome; no experience duration stated.",
+      "summary": "Entry-level technical support engineering opportunity.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343406",
+      "field": "Tech Support",
+      "type": "Tech"
+    },
+    {
+      "id": "srm_technologies_junior_database_administrator",
+      "role": "Junior Database Administrator",
+      "company": "SRM Technologies",
+      "location": "Chennai, Tamil Nadu, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL",
+        "Backup & Restore",
+        "PowerShell",
+        "Python"
+      ],
+      "eligibility": "Entry-level listing marked freshers welcome; no experience duration stated.",
+      "summary": "Junior database administration role covering database maintenance and support.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://srmtech.zohorecruit.com/jobs/Careers/664168000026718399/Junior-Database-Administrator?source=CareerSite",
+      "field": "Database & IT Operations",
+      "type": "Tech"
+    },
+    {
+      "id": "addweb_qa_fresher",
+      "role": "QA Fresher",
+      "company": "AddWeb Solution",
+      "location": "Ahmedabad, Gujarat, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Manual Testing",
+        "SQL",
+        "SDLC",
+        "STLC",
+        "Test Cases"
+      ],
+      "eligibility": "Fresher; 0–1 years of experience.",
+      "summary": "Entry-level quality assurance role for candidates starting in software testing.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://addwebsolution.zohorecruit.in/jobs/Careers/23850000024047171/QA-Fresher-Ahmedabad?source=CareerSite",
+      "field": "Software Testing & QA",
+      "type": "Tech"
+    },
+    {
+      "id": "wadhwani_ai_engineering_trainee",
+      "role": "Engineering Trainee",
+      "company": "Wadhwani AI",
+      "location": "New Delhi, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "Software Development Life Cycle",
+        "Machine Learning"
+      ],
+      "eligibility": "Fresher; 0–1 years of experience.",
+      "summary": "Engineering trainee opportunity involving software development and machine learning.",
+      "publishedMillis": 1795132800000,
+      "applyUrl": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006160157/Engineering-Trainee?source=CareerSite",
+      "field": "Software & AI Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "bruker_graduate_apprentice_2026",
+      "role": "Graduate Apprentice Trainee - Application Scientist",
+      "company": "Bruker",
+      "location": "Bengaluru, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Recent Graduates",
+      "skills": [
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biomedical Sciences"
+      ],
+      "eligibility": "Recent graduates (Bachelor's)",
+      "summary": "Graduate apprenticeship program under NATS.",
+      "publishedMillis": 1795059088000,
+      "applyUrl": "https://in.linkedin.com/jobs/view/graduate-apprentice-trainee-application-scientist-at-bruker-4492428426",
+      "field": "Engineering & Science",
+      "type": "Tech"
+    },
+    {
+      "id": "greensturn_trainee_gurugram",
+      "role": "Full Stack Trainee",
+      "company": "Greensturn",
+      "location": "Gurugram, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Full Stack Development",
+        "React.js",
+        "HTML",
+        "Web Development"
+      ],
+      "eligibility": "Freshers eligible; posted 1 week ago",
+      "summary": "Trainee developer working on front-end and full-stack web application features.",
+      "publishedMillis": 1795046400000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "rs_diamonds_se_trainee_mumbai",
+      "role": "Software Engineer Trainee - Immediate Joiner",
+      "company": "R S Diamonds",
+      "location": "Mumbai, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Python",
+        "Node.js",
+        "Java",
+        "SQL",
+        "AWS",
+        "React.js"
+      ],
+      "eligibility": "Freshers / immediate joiners; posted 1 week ago",
+      "summary": "Software engineering trainee building internal and customer-facing applications.",
+      "publishedMillis": 1795046400000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "cognizant_ai_engineer_hyd",
+      "role": "Artificial Intelligence Engineer",
+      "company": "Cognizant",
+      "location": "Hyderabad, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Python",
+        "Artificial Intelligence",
+        "Cloud Native",
+        "JavaScript"
+      ],
+      "eligibility": "0 Yrs experience; freshers eligible; posted 1 week ago",
+      "summary": "Entry-level AI engineering role developing cloud-native intelligent solutions.",
+      "publishedMillis": 1795046400000,
+      "applyUrl": "https://www.naukri.com/fresher-artificial-intelligence-jobs",
+      "field": "Data Science & AI",
+      "type": "Tech"
+    },
+    {
+      "id": "lyros_voice_associate",
+      "role": "International Voice Associate",
+      "company": "Lyros Technologies",
+      "location": "Bengaluru, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Graduates",
+      "skills": [
+        "Voice Support",
+        "Customer Service"
+      ],
+      "eligibility": "Fresh graduates",
+      "summary": "International voice process role.",
+      "publishedMillis": 1794969563000,
+      "applyUrl": "https://in.linkedin.com/jobs/view/international-voice-associate-fresher-graduate-at-lyros-technologies-pvt-ltd-cmmi-level-3-4491807659",
+      "field": "Customer Service",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "wipro_analyst_l1_chennai",
+      "role": "Analyst L1",
+      "company": "Wipro Limited",
+      "location": "Chennai, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Recent Graduates",
+      "skills": [
+        "Data Analysis",
+        "Reporting",
+        "SLA Management",
+        "Communication"
+      ],
+      "eligibility": "Entry-level analyst opening; posted Nov 18, 2026",
+      "summary": "Level-1 analyst role supporting operational and sales/business reporting workflows.",
+      "publishedMillis": 1794960000000,
+      "applyUrl": "https://in.indeed.com/q-fresher-capgemini,cognizant,tcs,wipro,infosys-jobs.html",
+      "field": "Analytics & Consulting",
+      "type": "Tech"
+    },
+    {
+      "id": "mondelez_team_member_trainee_sricity",
+      "role": "Team Member Trainee",
+      "company": "Mondelēz International",
+      "location": "Sri City, Andhra Pradesh, India",
+      "workMode": "Onsite; three-shift operation",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Manufacturing Operations",
+        "Machine Operation",
+        "Autonomous Maintenance",
+        "Safety",
+        "Quality Assurance"
+      ],
+      "eligibility": "Fresher; 10th/12th pass, ITI, diploma or graduate candidates may apply. B.E./B.Tech and postgraduate candidates are not eligible for this specific role.",
+      "summary": "Manufacturing trainee role operating and maintaining production equipment under coaching.",
+      "publishedMillis": 1794960000000,
+      "applyUrl": "https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Sricity-India/Team-Member-Trainee_R-182333",
+      "field": "Manufacturing & Operations",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "qad_apprentice_finance_shared_services",
+      "role": "Apprentice - Finance Shared Services",
+      "company": "QAD",
+      "location": "Mumbai, Maharashtra, India",
+      "workMode": "Remote-first; occasional Mumbai office travel may be required",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
+      "skills": [
+        "Accounting",
+        "General Ledger",
+        "Accounts Payable",
+        "Order-to-Cash",
+        "Travel & Expense",
+        "Excel",
+        "Financial Reporting"
+      ],
+      "eligibility": "Fresher; Bachelor's degree in Accounting or Finance, or completed CA articleship; minimum 60% in graduation.",
+      "summary": "Finance apprenticeship supporting accounting, billing, reconciliations, reporting and expense processing.",
+      "publishedMillis": 1794873600000,
+      "applyUrl": "https://jobs.smartrecruiters.com/QADInc/744000161996879",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "mondelez_sales_officer_trainee_north",
+      "role": "Sales Officer Trainee - North Branch",
+      "company": "Mondelēz International",
+      "location": "India (North Branch)",
+      "workMode": "Remote / field-based as listed",
+      "ctc": "Not disclosed",
+      "batch": "2026 batch",
+      "skills": [
+        "Sales",
+        "Territory Management",
+        "Customer Relationship Management",
+        "Business Development"
+      ],
+      "eligibility": "Fresher; 2026 batch onboarding stated in the role description.",
+      "summary": "Early-career sales trainee opportunity for the North Branch.",
+      "publishedMillis": 1794873600000,
+      "applyUrl": "https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/India-Remote/Sales-Officer-Trainee---North-Branch_R-182511",
+      "field": "Sales & Business Development",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "spr_india_get",
+      "role": "Graduate Engineer Trainee",
+      "company": "SPR India",
+      "location": "Chennai, India",
+      "workMode": "Onsite",
+      "ctc": "As per company policy",
+      "batch": "Civil/Mechanical/Electrical",
+      "skills": [
+        "AutoCAD",
+        "Site Engineering",
+        "Construction"
+      ],
+      "eligibility": "Freshers or up to 1 year experience",
+      "summary": "Civil and MEP engineering trainee role.",
+      "publishedMillis": 1794848692000,
+      "applyUrl": "https://in.linkedin.com/jobs/view/graduate-engineer-trainee-at-spr-india-4490164671",
+      "field": "Construction",
       "type": "Tech"
     },
     {
@@ -1132,24 +2064,87 @@
       "type": "Tech"
     },
     {
-      "id": "infosys_digital_specialist_engineer_trainee",
-      "role": "Digital Specialist Engineer (Trainee)",
-      "company": "Infosys",
-      "location": "Bengaluru / Hyderabad / Delhi NCR, India",
-      "workMode": "On-site",
-      "ctc": "6.25 LPA + 75,000 joining bonus (official)",
-      "batch": "2024 / 2025 / 2026 Batch",
+      "id": "michelin_trainee_record_to_report",
+      "role": "Trainee - Record to Report",
+      "company": "Michelin",
+      "location": "Pune, Maharashtra, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Not specified",
       "skills": [
-        "Java",
-        "Python",
-        "Full-Stack Basics",
-        "Testing"
+        "Accounting Fundamentals",
+        "General Ledger",
+        "Month-End Close",
+        "Financial Reporting",
+        "Account Reconciliation",
+        "Excel"
       ],
-      "eligibility": "BE/BTech/ME/MTech/MCA/MSc (5-yr integrated) in CS/IT/ECE/EEE and allied | 0-2 Years Experience",
-      "summary": "Digital Specialist Engineer trainee role at Infosys covering application development, testing and production support.",
-      "publishedMillis": 1794700800000,
-      "applyUrl": "https://www.naukri.com/job-listings-digital-specialist-engineer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026022319",
+      "eligibility": "Fresher; B.Com / MBA with a good foundation in accounting.",
+      "summary": "11-month fixed-term traineeship supporting general ledger, reconciliations, month-end close and financial reporting.",
+      "publishedMillis": 1794614400000,
+      "applyUrl": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Trainee---Record-to-Report_R-2026041100/apply?source=Michelin_Career",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "ad_automatos_get",
+      "role": "Graduate Engineer Trainee",
+      "company": "AD Automatos",
+      "location": "Ghaziabad, India",
+      "workMode": "Onsite",
+      "ctc": "₹4-4.5 LPA",
+      "batch": "2026",
+      "skills": [
+        "PLC",
+        "SCADA",
+        "Automation"
+      ],
+      "eligibility": "BE/BTech Electrical Engineering",
+      "summary": "Industrial automation trainee role.",
+      "publishedMillis": 1794528000000,
+      "applyUrl": "https://in.jobrapido.com/jobpreview/6196661339797061632?utm_source=bingjobs",
+      "field": "Industrial Automation",
+      "type": "Tech"
+    },
+    {
+      "id": "kaar_infotech_offcampus_2026",
+      "role": "Trainee - Off Campus Hiring 2026",
+      "company": "Kaar Infotech",
+      "location": "Coimbatore & Erode, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2026 Graduates",
+      "skills": [
+        "Full Stack Development",
+        "C#",
+        ".NET",
+        "Entry-Level Programming"
+      ],
+      "eligibility": "2026 freshers; posted 2 weeks ago",
+      "summary": "Off-campus entry-level trainee role covering full-stack and .NET development.",
+      "publishedMillis": 1794441600000,
+      "applyUrl": "https://www.naukri.com/fresher-trainee-software-engineer-jobs",
       "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "spml_get_bess",
+      "role": "Graduate Engineer Trainee - BESS",
+      "company": "SPML Infra",
+      "location": "Pune, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "BE/BTech Electrical",
+      "skills": [
+        "Electrical Engineering",
+        "Renewable Energy",
+        "SCADA"
+      ],
+      "eligibility": "0-1 year, freshers can apply",
+      "summary": "Battery Energy Storage Systems trainee role.",
+      "publishedMillis": 1794441600000,
+      "applyUrl": "https://in.jobrapido.com/jobpreview/9093058091603197952?utm_source=bingjobs",
+      "field": "Energy",
       "type": "Tech"
     },
     {
@@ -1323,91 +2318,6 @@
       ],
       "eligibility": "B.E./B.Tech CS/IT 2027 batch",
       "summary": "Engineering internship building cloud security and vulnerability management tools.",
-      "publishedMillis": 1764095400000,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "jci_get_data_ai_pune_2026",
-      "role": "Graduate Engineer Trainee - Data/AI",
-      "company": "Johnson Controls",
-      "location": "Pune, India",
-      "workMode": "Hybrid",
-      "ctc": "Not disclosed",
-      "batch": "2026 Graduates",
-      "skills": [
-        "Python",
-        "Data Analytics",
-        "Machine Learning",
-        "SQL"
-      ],
-      "eligibility": "B.E./B.Tech graduates in CS/Data Science/IT",
-      "summary": "Develop data pipelines and AI analytics models for smart building technologies.",
-      "publishedMillis": 1764095400000,
-      "applyUrl": "https://fresherjobsindia.com/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "stryker_swe_cv_blr_2026",
-      "role": "Software Engineer - Computer Vision",
-      "company": "Stryker",
-      "location": "Bengaluru, India",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "2026 Graduates",
-      "skills": [
-        "Computer Vision",
-        "C++",
-        "Python",
-        "OpenCV",
-        "Deep Learning"
-      ],
-      "eligibility": "Entry-level CS/ECE graduates",
-      "summary": "Develop medical imaging and surgical navigation computer vision algorithms.",
-      "publishedMillis": 1764095400000,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "transunion_assoc_dev_hyd_2026",
-      "role": "Associate Developer - Software Development",
-      "company": "TransUnion",
-      "location": "Hyderabad, India",
-      "workMode": "Hybrid",
-      "ctc": "Not disclosed",
-      "batch": "2026 Graduates",
-      "skills": [
-        "Java",
-        "SQL",
-        "Microservices",
-        "REST APIs"
-      ],
-      "eligibility": "Entry-level B.E./B.Tech graduates",
-      "summary": "Develop backend credit reporting and analytics services.",
-      "publishedMillis": 1764095400000,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "schneider_remote_support_eng_blr_2026",
-      "role": "Remote Support Engineer - Digital Services",
-      "company": "Schneider Electric",
-      "location": "Bengaluru, India",
-      "workMode": "Hybrid",
-      "ctc": "Not disclosed",
-      "batch": "2026 Graduates",
-      "skills": [
-        "Networking",
-        "IoT",
-        "Troubleshooting",
-        "Electrical Basics"
-      ],
-      "eligibility": "Entry-level Engineering graduates",
-      "summary": "Provide remote digital diagnostics and technical support for energy management systems.",
       "publishedMillis": 1764095400000,
       "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
       "field": "Tech & Engineering",
@@ -1865,28 +2775,6 @@
       ],
       "eligibility": "B.E./B.Tech in CS/ECE/EE",
       "summary": "Campus/entry-level software engineering role developing wireless and chipset software.",
-      "publishedMillis": 1764009000000,
-      "applyUrl": "https://fresherjobsindia.com/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "citi_app_support_analyst_chn_2026",
-      "role": "Application Support Analyst",
-      "company": "Citi",
-      "location": "Chennai, India",
-      "workMode": "Hybrid",
-      "ctc": "Not disclosed",
-      "batch": "2026 Graduates",
-      "skills": [
-        "SQL",
-        "Unix/Linux",
-        "ITIL",
-        "Incident Management",
-        "Java"
-      ],
-      "eligibility": "2026 Graduates in Engineering/IT",
-      "summary": "Monitor, troubleshoot, and maintain mission-critical banking applications.",
       "publishedMillis": 1764009000000,
       "applyUrl": "https://fresherjobsindia.com/",
       "field": "Tech & Engineering",
@@ -4353,25 +5241,947 @@
       "type": "Tech"
     },
     {
-      "id": "infosys_sp_dse_2026",
-      "role": "Specialist Programmer (SP L1-L3) / Digital Specialist Engineer (DSE) Trainee",
+      "id": "infosys_se_2027",
+      "role": "System Engineer",
       "company": "Infosys",
-      "location": "Bengaluru / Hyderabad / Delhi NCR / Pan India",
-      "workMode": "Onsite / Hybrid",
-      "ctc": "SP L3: up to ₹21 LPA | SP L2: ₹16 LPA | SP L1: ₹10 LPA + bonus | DSE: ₹6.25 LPA + ₹75k bonus",
-      "batch": "2024 / 2025 / 2026 Graduates",
+      "location": "Pan India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "2027 Graduates",
+      "skills": [
+        "Software Engineering",
+        "Computer Applications"
+      ],
+      "eligibility": "2027 engineering / computer applications graduates",
+      "summary": "Campus recruitment for System Engineer role for 2027 batch.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshersdunia.in/infosys-campus-recruitment-2027/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "american_express_analyst_ds",
+      "role": "Analyst – Data Analytics & Data Science",
+      "company": "American Express",
+      "location": "Gurugram / Bengaluru, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "Not disclosed",
+      "batch": "Freshers 2026",
+      "skills": [
+        "Data Analytics",
+        "Data Science"
+      ],
+      "eligibility": "Freshers eligible",
+      "summary": "Analyst roles in Data Analytics & Data Science for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshersdunia.in/american-express-hiring-freshers-2026/",
+      "field": "Data & Analytics",
+      "type": "Tech"
+    },
+    {
+      "id": "infosys_bpm_process_exec",
+      "role": "Process Executive / Senior Process Executive",
+      "company": "Infosys BPM",
+      "location": "Pune / Mangalore / Bangalore, India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "2025/2026 Graduates",
+      "skills": [
+        "Computer Knowledge",
+        "Content Interpretation",
+        "Communication"
+      ],
+      "eligibility": "BCom/BBA/B.Sc/BA 2025-2026 graduates",
+      "summary": "Process executive roles for fresh graduates across multiple locations.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshersdunia.in/infosys-off-campus-hiring-2026-2/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "kpmg_associate_2",
+      "role": "Associate 2",
+      "company": "KPMG",
+      "location": "Bangalore / Hyderabad, India",
+      "workMode": "Not specified",
+      "ctc": "Up to ₹10.5 LPA",
+      "batch": "2023-2026 Graduates",
+      "skills": [
+        "Consulting",
+        "Analytics"
+      ],
+      "eligibility": "2023-2026 batch graduates",
+      "summary": "Off-campus Associate 2 roles with competitive package.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshersdunia.in/",
+      "field": "Consulting & Finance",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "ge_healthcare_prod_eng_trainee",
+      "role": "Production Engineering Trainee",
+      "company": "GE Healthcare",
+      "location": "Bengaluru, India",
+      "workMode": "Full time",
+      "ctc": "₹5–7 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "cGMP",
+        "Lean Manufacturing",
+        "Microsoft Office",
+        "Quality Management System"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Production Engineering Trainee role for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Core Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "wipro_service_desk_analyst",
+      "role": "Service Desk Analyst",
+      "company": "Wipro",
+      "location": "Pune, India",
+      "workMode": "Full time",
+      "ctc": "₹1.8–3.2 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "IT support",
+        "SLA Management",
+        "Ticketing Tools",
+        "TIS Service Desk"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Service Desk Analyst role for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "wipro_production_agent",
+      "role": "Production Agent",
+      "company": "Wipro",
+      "location": "Mumbai, India",
+      "workMode": "Full time",
+      "ctc": "₹2–3.4 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Customer Service",
+        "RAVE"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Production Agent role for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "flex_associate_se",
+      "role": "Associate Software Engineer",
+      "company": "Flex",
+      "location": "Chennai, India",
+      "workMode": "Full time",
+      "ctc": "₹3–4.8 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "C#",
+        "Generative AI",
+        "Java",
+        "JavaScript",
+        "Python",
+        "SQL"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Associate Software Engineer role with AI exposure.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "hcltech_automation_test",
+      "role": "Automation Test Specialist",
+      "company": "HCLTech",
+      "location": "Chennai, India",
+      "workMode": "Full time",
+      "ctc": "₹6–10 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Jenkins",
+        "JMeter",
+        "Playwright",
+        "Postman",
+        "Selenium",
+        "SQL"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Automation Test Specialist for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "hcltech_itsm_analyst",
+      "role": "ITSM Analyst",
+      "company": "HCLTech",
+      "location": "Noida, India",
+      "workMode": "Full time",
+      "ctc": "₹3.5–5 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "BMC Helix",
+        "ITIL",
+        "Jira Service Management",
+        "ServiceNow",
+        "Windows Networking"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "ITSM Analyst role for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "canonical_grad_se",
+      "role": "Graduate Software Engineer, Open Source and Linux",
+      "company": "Canonical",
+      "location": "India (Remote)",
+      "workMode": "Remote",
+      "ctc": "₹10–18 LPA (est.)",
+      "batch": "2026/2027",
+      "skills": [
+        "Python",
+        "Go",
+        "Rust",
+        "C/C++",
+        "JavaScript",
+        "Linux"
+      ],
+      "eligibility": "2026/2027 batch freshers",
+      "summary": "Graduate Software Engineer focused on open source and Linux.",
+      "publishedMillis": 0,
+      "applyUrl": "https://job-boards.greenhouse.io/canonical/jobs/8379825",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "eaton_apprentice_it",
+      "role": "Apprentice - IT Development Program",
+      "company": "Eaton",
+      "location": "Pune, India",
+      "workMode": "Onsite",
+      "ctc": "₹3–5 LPA (est.)",
+      "batch": "Freshers (0–1 yrs)",
+      "skills": [
+        "Application support",
+        "Incident tracking",
+        "Documentation",
+        "MS Office",
+        "Programming basics"
+      ],
+      "eligibility": "Freshers (0–1 years)",
+      "summary": "IT Development Program Apprentice for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://eaton.eightfold.ai/careers/job/687240496341",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "wadhwani_ai_sde1",
+      "role": "Engineering Trainee / SDE 1",
+      "company": "Wadhwani AI",
+      "location": "Delhi, India",
+      "workMode": "Not specified",
+      "ctc": "₹6–12 LPA (est.)",
+      "batch": "Freshers (0–1 yrs)",
+      "skills": [
+        "Data structures",
+        "Algorithms",
+        "Git",
+        "Machine learning",
+        "Software development"
+      ],
+      "eligibility": "Freshers (0–1 years)",
+      "summary": "Engineering Trainee / SDE 1 role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006160157/Engineering-Trainee-SDE-1?source=CareerSite",
+      "field": "AI & ML",
+      "type": "Tech"
+    },
+    {
+      "id": "smartstream_solution_dev",
+      "role": "Solution Developer",
+      "company": "SmartStream Technologies",
+      "location": "Bengaluru, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "₹4–7 LPA (est.)",
+      "batch": "Freshers (0–1 yrs)",
+      "skills": [
+        "SQL",
+        "Unix",
+        "Scripting",
+        "SDLC"
+      ],
+      "eligibility": "Freshers (0–1 years)",
+      "summary": "Solution Developer role for freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://apply.workable.com/smartstream/j/99B6B7E648/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "argano_oracle_cloud_testing",
+      "role": "Associate Consultant - Oracle Cloud Testing",
+      "company": "Argano",
+      "location": "Hyderabad, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "₹3–5 LPA (est.)",
+      "batch": "Freshers (0–1 yrs)",
+      "skills": [
+        "Oracle Fusion ERP",
+        "Oracle SCM",
+        "Functional Testing",
+        "Test Automation"
+      ],
+      "eligibility": "Freshers (0–1 years)",
+      "summary": "Associate Consultant role in Oracle Cloud Testing.",
+      "publishedMillis": 0,
+      "applyUrl": "https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2020",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "capgemini_agile_dev_testing",
+      "role": "Agile Dev Team Member I - Testing",
+      "company": "Capgemini",
+      "location": "Hyderabad, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "₹4–8 LPA (est.)",
+      "batch": "Entry level",
+      "skills": [
+        "Test cases",
+        "TDD",
+        "BDD",
+        "Agile",
+        "Defect tracking"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Agile testing role for entry-level candidates.",
+      "publishedMillis": 0,
+      "applyUrl": "https://apply.workable.com/capgemini-insurance/j/2969CA01AC/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "wipro_developer_l1",
+      "role": "Developer L1",
+      "company": "Wipro",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "₹3.5–6 LPA (est.)",
+      "batch": "Entry level",
+      "skills": [
+        "AI Native Agentic Commerce",
+        "Coding",
+        "Unit testing"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Developer L1 role with AI focus.",
+      "publishedMillis": 0,
+      "applyUrl": "https://careers.wipro.com/job/DEVELOPER-L1/216335-en_US",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "ust_info_security_analyst",
+      "role": "Analyst I - Information Security",
+      "company": "UST",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "₹4–7 LPA (est.)",
+      "batch": "0–2 yrs (Freshers OK)",
+      "skills": [
+        "Access Control",
+        "Audit Support",
+        "Compliance Management",
+        "Cybersecurity"
+      ],
+      "eligibility": "0–2 years / freshers OK",
+      "summary": "Information Security Analyst role open to freshers.",
+      "publishedMillis": 0,
+      "applyUrl": "https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/68867",
+      "field": "Cybersecurity",
+      "type": "Tech"
+    },
+    {
+      "id": "argano_sap_fico",
+      "role": "Associate Consultant - SAP FICO",
+      "company": "Argano",
+      "location": "Hyderabad, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "₹4–6 LPA (est.)",
+      "batch": "0–2 yrs (Freshers OK)",
+      "skills": [
+        "SAP FICO",
+        "General Ledger",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "S/4 HANA"
+      ],
+      "eligibility": "0–2 years / freshers OK",
+      "summary": "SAP FICO Associate Consultant role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1998",
+      "field": "ERP & Consulting",
+      "type": "Tech"
+    },
+    {
+      "id": "infineon_young_grad_trainee",
+      "role": "Young Graduate Trainee (IoT Radio Validation)",
+      "company": "Infineon Technologies",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Fresher",
+      "skills": [
+        "IoT",
+        "Radio Validation"
+      ],
+      "eligibility": "Freshers",
+      "summary": "Young Graduate Trainee in IoT Radio Validation.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Core Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "piramal_trainee_pilot_plant",
+      "role": "Trainee – Pilot Plant",
+      "company": "Piramal Pharma",
+      "location": "Ennore (Chennai), India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Fresher",
+      "skills": [
+        "Pilot Plant Operations"
+      ],
+      "eligibility": "Freshers",
+      "summary": "Trainee role in Pilot Plant.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Pharma & Manufacturing",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "piramal_trainee_rd",
+      "role": "Trainee – R&D",
+      "company": "Piramal Pharma",
+      "location": "Rabale (Navi Mumbai), India",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "Fresher",
+      "skills": [
+        "R&D"
+      ],
+      "eligibility": "Freshers",
+      "summary": "R&D Trainee role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Pharma & Manufacturing",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "oracle_customer_service_analyst",
+      "role": "Customer Service Analyst 1 – Support",
+      "company": "Oracle",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Entry level",
+      "skills": [
+        "Customer Support"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Customer Service Analyst role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "kpmg_analyst_health",
+      "role": "Analyst – Health",
+      "company": "KPMG Global Services",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "0-1 years",
+      "skills": [
+        "Health Analytics"
+      ],
+      "eligibility": "0-1 years / freshers",
+      "summary": "Analyst role in Health domain.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Consulting & Analytics",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "conduent_benefits_admin",
+      "role": "Benefits Administration Services Associate I",
+      "company": "Conduent",
+      "location": "Kochi, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "0-1 years",
+      "skills": [
+        "Benefits Administration"
+      ],
+      "eligibility": "0-1 years / freshers",
+      "summary": "Benefits Administration Associate role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "conduent_transaction_processing",
+      "role": "Transaction Processing Associate I",
+      "company": "Conduent",
+      "location": "Kochi, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "0-1 years",
+      "skills": [
+        "Transaction Processing"
+      ],
+      "eligibility": "0-1 years / freshers",
+      "summary": "Transaction Processing Associate role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "aon_associate_se",
+      "role": "Associate Software Engineer",
+      "company": "Aon",
+      "location": "Gurugram, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Fresher",
+      "skills": [
+        "Software Engineering"
+      ],
+      "eligibility": "Freshers",
+      "summary": "Associate Software Engineer role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "coherent_driver_dev_eng",
+      "role": "Driver Development Engineer",
+      "company": "Coherent",
+      "location": "Hyderabad, India (On-site)",
+      "workMode": "Onsite",
+      "ctc": "Not disclosed",
+      "batch": "0-1 years",
+      "skills": [
+        "Driver Development"
+      ],
+      "eligibility": "0-1 years",
+      "summary": "Driver Development Engineer role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Core Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "proofpoint_backend_golang",
+      "role": "Backend Golang Developer",
+      "company": "Proofpoint",
+      "location": "Bengaluru, India (Remote)",
+      "workMode": "Remote",
+      "ctc": "Not disclosed",
+      "batch": "Entry level",
+      "skills": [
+        "Golang",
+        "Backend"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Backend Golang Developer role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "genpact_app_support",
+      "role": "Application Support (Tech Associate)",
+      "company": "Genpact",
+      "location": "Noida, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "₹4–6 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "ITIL",
+        "Microsoft Access",
+        "VBA",
+        "Release Management",
+        "RPA",
+        "SQL",
+        "Unix Shell Scripting"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Application Support Tech Associate role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "genpact_accounts_payable",
+      "role": "Accounts Payable Associate",
+      "company": "Genpact",
+      "location": "Hyderabad, India",
+      "workMode": "Full time",
+      "ctc": "₹3–4.5 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Invoice Processing",
+        "Lean Six Sigma",
+        "Microsoft Office",
+        "SAP"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Accounts Payable Associate role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "hcltech_m365_admin",
+      "role": "Microsoft 365 Administrator (Campus Beginner)",
+      "company": "HCLTech",
+      "location": "Lucknow, India",
+      "workMode": "Full time",
+      "ctc": "₹4–5 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Active Directory",
+        "Azure AD",
+        "Exchange",
+        "Microsoft 365",
+        "Microsoft Teams",
+        "SharePoint"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Microsoft 365 Administrator role for campus beginners.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "teleperformance_csa",
+      "role": "Customer Service Associate",
+      "company": "Teleperformance",
+      "location": "Gurugram, India",
+      "workMode": "Full time",
+      "ctc": "₹2.4–3 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "CRM tools",
+        "Live Chat",
+        "Phone Support",
+        "Text Support"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Customer Service Associate role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Operations & Customer Support",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "exl_invoice_processing",
+      "role": "Invoice Processing Executive (Finance & Accounting Operations)",
+      "company": "EXL",
+      "location": "Kochi, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "₹3–4 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Accounts Payable",
+        "Invoice Processing",
+        "Microsoft Office",
+        "P2P Processes"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Invoice Processing Executive role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "pwc_sap_hcm",
+      "role": "SAP Human Capital Management Consultant",
+      "company": "PwC",
+      "location": "Mumbai, India",
+      "workMode": "Full time",
+      "ctc": "₹7–10 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Benefits Administration",
+        "Business Analysis",
+        "HR Metrics",
+        "Human Capital Management",
+        "SAP",
+        "SAP HCM"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "SAP HCM Consultant role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "ERP & Consulting",
+      "type": "Tech"
+    },
+    {
+      "id": "emerson_temp_operator",
+      "role": "Temporary Operator",
+      "company": "Emerson",
+      "location": "Chennai, India",
+      "workMode": "Full time / Onsite",
+      "ctc": "₹2.4–3.6 LPA",
+      "batch": "2024–2026",
+      "skills": [
+        "Automatic Testing Equipment",
+        "Molding Machine",
+        "Spot Welding",
+        "Winding Machine"
+      ],
+      "eligibility": "2024–2026 graduates",
+      "summary": "Temporary Operator role in manufacturing.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Manufacturing",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "flex_ap_analyst",
+      "role": "Accounts Payable Analyst",
+      "company": "Flex",
+      "location": "Chennai, India",
+      "workMode": "Full time",
+      "ctc": "₹3–4.5 LPA",
+      "batch": "2025, 2026",
+      "skills": [
+        "Accounts Payable",
+        "ERP Systems",
+        "Excel Macros",
+        "MS Excel",
+        "Trial Balance Reconciliation"
+      ],
+      "eligibility": "2025/2026 graduates",
+      "summary": "Accounts Payable Analyst role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://www.talentd.in/jobs/freshers",
+      "field": "Finance & Accounting",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "infosys_sp_dse_2026",
+      "role": "Specialist Programmer (SP L1–L3) & Digital Specialist Engineer (DSE) Trainee",
+      "company": "Infosys",
+      "location": "Pan India",
+      "workMode": "Not specified",
+      "ctc": "Up to ₹21 LPA (SP tracks)",
+      "batch": "2024–26",
       "skills": [
         "Programming",
-        "DSA",
-        "Full Stack",
-        "Problem Solving"
+        "Digital Technologies"
       ],
-      "eligibility": "BE/BTech/ME/MTech/MCA/MSc (CS/IT/AI/ML/ECE/EEE related) 2024-26 batch, 60%+ throughout, no active backlogs",
-      "summary": "Premium fresher tracks at Infosys for Specialist Programmer and Digital Specialist Engineer roles. Registration open till 30 Nov 2026.",
+      "eligibility": "2024–26 UG/PG batches",
+      "summary": "Off-campus SP and DSE trainee hiring. Register by 30 Nov 2026.",
       "publishedMillis": 0,
       "applyUrl": "https://freshershunt.in/infosys-off-campus-drive-2026/",
       "field": "Tech & Engineering",
       "type": "Tech"
+    },
+    {
+      "id": "ntt_data_sap_abap",
+      "role": "SAP ABAP Associate Consultant",
+      "company": "NTT DATA",
+      "location": "Pune, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "0-2 years / 2027",
+      "skills": [
+        "SAP ABAP",
+        "S/4HANA"
+      ],
+      "eligibility": "CS/IT/Engineering grads, 0-2 yrs",
+      "summary": "SAP S/4HANA ABAP Associate Consultant role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/ntt-data-off-campus-drive-2027/",
+      "field": "ERP & Consulting",
+      "type": "Tech"
+    },
+    {
+      "id": "accenture_packaged_app",
+      "role": "Packaged App Development Associate (Customer Technical Support)",
+      "company": "Accenture",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Any graduate, 0-3 yrs",
+      "skills": [
+        "Customer Technical Support"
+      ],
+      "eligibility": "Any graduate, 0-3 years",
+      "summary": "Packaged App Development Associate – Customer Technical Support (24×7 shifts).",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/accenture-packaged-app-development-associate-2026/",
+      "field": "IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "johnson_controls_get",
+      "role": "Graduate Engineer Trainee",
+      "company": "Johnson Controls",
+      "location": "Bangalore / Pune, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "2023-2026",
+      "skills": [
+        "Engineering"
+      ],
+      "eligibility": "2023-2026 batch graduates",
+      "summary": "Graduate Engineer Trainee role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshersdunia.in/",
+      "field": "Core Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "micron_intern",
+      "role": "Intern",
+      "company": "Micron Technology",
+      "location": "Hyderabad, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Intern",
+      "skills": [
+        "Semiconductor / Engineering"
+      ],
+      "eligibility": "Interns / freshers",
+      "summary": "Internship opportunity at Micron.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Core Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "stryker_se_cv",
+      "role": "Software Engineer – Computer Vision",
+      "company": "Stryker",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Entry level",
+      "skills": [
+        "Computer Vision",
+        "Software Engineering"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Software Engineer focused on Computer Vision.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "transunion_associate_dev",
+      "role": "Associate Developer – Software Development",
+      "company": "TransUnion",
+      "location": "Hyderabad, India (Hybrid)",
+      "workMode": "Hybrid",
+      "ctc": "Not disclosed",
+      "batch": "Entry level",
+      "skills": [
+        "Software Development"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Associate Developer role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Tech & Engineering",
+      "type": "Tech"
+    },
+    {
+      "id": "schneider_remote_support",
+      "role": "Remote Support Engineer – Digital Services",
+      "company": "Schneider Electric",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Entry level",
+      "skills": [
+        "Digital Services Support"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Remote Support Engineer role.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "IT Support",
+      "type": "Tech"
+    },
+    {
+      "id": "marriott_front_office",
+      "role": "Front Office Associate",
+      "company": "Marriott",
+      "location": "Bengaluru, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Fresher",
+      "skills": [
+        "Front Office",
+        "Hospitality"
+      ],
+      "eligibility": "Freshers",
+      "summary": "Front Office Associate role in hospitality.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Hospitality",
+      "type": "Non-Tech"
+    },
+    {
+      "id": "kotak_relationship_officer",
+      "role": "Relationship Officer – Kotak 811 Digital Sales",
+      "company": "Kotak Mahindra Bank",
+      "location": "Pune, India",
+      "workMode": "Not specified",
+      "ctc": "Not disclosed",
+      "batch": "Entry level",
+      "skills": [
+        "Digital Sales",
+        "Banking"
+      ],
+      "eligibility": "Entry level / freshers",
+      "summary": "Relationship Officer for digital sales.",
+      "publishedMillis": 0,
+      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
+      "field": "Banking & Finance",
+      "type": "Non-Tech"
     },
     {
       "id": "zycus_se_graduates_2026",
@@ -4711,43 +6521,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "kpmg_associate_consultant_servicenow",
-      "role": "Associate Consultant – ServiceNow",
-      "company": "KPMG Global Services",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Entry level / Freshers",
-      "skills": [
-        "ServiceNow"
-      ],
-      "eligibility": "Entry level",
-      "summary": "ServiceNow consulting role for freshers.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Consulting & Tech",
-      "type": "Tech"
-    },
-    {
-      "id": "wells_fargo_associate_fraud",
-      "role": "Associate Fraud & Claims Operations Representative",
-      "company": "Wells Fargo",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Freshers only",
-      "skills": [
-        "Fraud Analysis",
-        "Claims Operations"
-      ],
-      "eligibility": "Freshers only",
-      "summary": "Fraud and claims operations role exclusively for freshers.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "BFSI Operations",
-      "type": "Non-Tech"
-    },
-    {
       "id": "s_p_global_operations_analysis",
       "role": "Operations Analysis Analyst",
       "company": "S&P Global",
@@ -4764,80 +6537,6 @@
       "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
       "field": "Analytics & Operations",
       "type": "Non-Tech"
-    },
-    {
-      "id": "infineon_young_graduate_trainee",
-      "role": "Young Graduate Trainee (SVT Engineer / IoT Radio Validation)",
-      "company": "Infineon Technologies",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "IoT",
-        "Radio Validation",
-        "Electronics"
-      ],
-      "eligibility": "Fresher / Young Graduate",
-      "summary": "Graduate trainee program in semiconductor / IoT validation.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "american_express_analyst_data_science",
-      "role": "Analyst – Data Science",
-      "company": "American Express",
-      "location": "Gurugram",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "0-2 years (freshers eligible)",
-      "skills": [
-        "Data Science"
-      ],
-      "eligibility": "0-2 years",
-      "summary": "Data science analyst role open to freshers.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Data & Analytics",
-      "type": "Tech"
-    },
-    {
-      "id": "transunion_associate_developer",
-      "role": "Associate Developer – Software Development",
-      "company": "TransUnion",
-      "location": "Hyderabad (Hybrid)",
-      "workMode": "Hybrid",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Software Development"
-      ],
-      "eligibility": "Entry level / Freshers",
-      "summary": "Software development associate role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "schneider_remote_support_engineer",
-      "role": "Remote Support Engineer – Digital Services",
-      "company": "Schneider Electric",
-      "location": "Bengaluru",
-      "workMode": "Remote / Hybrid possible",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Digital Services Support"
-      ],
-      "eligibility": "Entry level",
-      "summary": "Remote support engineering role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
     },
     {
       "id": "equifax_trainee_data_scientist",
@@ -4913,44 +6612,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "kotak_relationship_officer",
-      "role": "Relationship Officer – Kotak 811 Digital Sales",
-      "company": "Kotak Mahindra Bank",
-      "location": "Pune / Hyderabad / Noida",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Digital Sales",
-        "Customer Relationship"
-      ],
-      "eligibility": "Entry level",
-      "summary": "Digital banking sales / relationship officer role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "BFSI Sales",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "marriott_front_office",
-      "role": "Front Office Associate / Reservations Associate",
-      "company": "Marriott",
-      "location": "Bengaluru / Karnataka / Amritsar",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Fresher / Entry level",
-      "skills": [
-        "Front Office",
-        "Hospitality"
-      ],
-      "eligibility": "Fresher",
-      "summary": "Hospitality front office and reservations roles.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Hospitality",
-      "type": "Non-Tech"
-    },
-    {
       "id": "huron_centralized_financial",
       "role": "Centralized Financial Management Analyst",
       "company": "Huron",
@@ -5002,25 +6663,6 @@
       "publishedMillis": 0,
       "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
       "field": "Product & Analytics",
-      "type": "Tech"
-    },
-    {
-      "id": "stryker_software_engineer_cv",
-      "role": "Software Engineer – Computer Vision",
-      "company": "Stryker",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Computer Vision",
-        "Software Engineering"
-      ],
-      "eligibility": "Entry level",
-      "summary": "Computer vision software engineering role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
       "type": "Tech"
     },
     {
@@ -5115,25 +6757,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "oracle_support_engineer",
-      "role": "Support Engineer 1 (Oracle Health)",
-      "company": "Oracle",
-      "location": "India (multiple)",
-      "workMode": "Not specified",
-      "ctc": "Not disclosed",
-      "batch": "0–2 years",
-      "skills": [
-        "Support",
-        "Oracle Health"
-      ],
-      "eligibility": "0–2 years (freshers eligible)",
-      "summary": "Support engineer role for Oracle Health products.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
       "id": "wipro_walkin_customer_support",
       "role": "Customer Support / Non-Voice / Mapping",
       "company": "Wipro",
@@ -5212,61 +6835,6 @@
       "type": "Tech"
     },
     {
-      "id": "iqvia_aiml_intern",
-      "role": "AI/ML Intern",
-      "company": "IQVIA",
-      "location": "Bengaluru / Kochi (Hybrid)",
-      "workMode": "Hybrid",
-      "ctc": "Not disclosed",
-      "batch": "Students (CS/Engineering/Maths/Stats)",
-      "skills": [
-        "Python",
-        "ML"
-      ],
-      "eligibility": "Students with Python and ML basics",
-      "summary": "AI/ML internship role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/iqvia-internship-2027/",
-      "field": "Data & Analytics",
-      "type": "Tech"
-    },
-    {
-      "id": "kpmg_associate_2",
-      "role": "Associate 2",
-      "company": "KPMG",
-      "location": "Bangalore / Hyderabad",
-      "workMode": "Onsite",
-      "ctc": "Up to ₹10.5 LPA",
-      "batch": "2023–2026",
-      "skills": [
-        "Consulting"
-      ],
-      "eligibility": "2023 to 2026 batches",
-      "summary": "Associate role in KPMG off-campus drive.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshersdunia.in/",
-      "field": "Consulting",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "johnson_controls_get",
-      "role": "Graduate Engineer Trainee",
-      "company": "Johnson Controls",
-      "location": "Bangalore & Pune",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "2023–2026",
-      "skills": [
-        "Engineering"
-      ],
-      "eligibility": "2023 to 2026 batches",
-      "summary": "GET role for engineering freshers.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshersdunia.in/",
-      "field": "Core Engineering",
-      "type": "Non-Tech"
-    },
-    {
       "id": "ey_associate_analyst",
       "role": "Associate Analyst",
       "company": "EY",
@@ -5321,42 +6889,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "aon_associate_software_engineer",
-      "role": "Associate Software Engineer",
-      "company": "Aon",
-      "location": "Gurugram",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Fresher",
-      "skills": [
-        "Software Engineering"
-      ],
-      "eligibility": "Fresher",
-      "summary": "Associate software engineer role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "coherent_driver_development",
-      "role": "Driver Development Engineer",
-      "company": "Coherent",
-      "location": "Hyderabad (on-site)",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "0-1 years",
-      "skills": [
-        "Driver Development"
-      ],
-      "eligibility": "0-1 years",
-      "summary": "Driver development engineering role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
       "id": "nov_software_engineer",
       "role": "Software Engineer",
       "company": "NOV",
@@ -5373,62 +6905,6 @@
       "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
       "field": "Tech & Engineering",
       "type": "Tech"
-    },
-    {
-      "id": "proofpoint_backend_golang",
-      "role": "Backend Golang Developer",
-      "company": "Proofpoint",
-      "location": "Bengaluru (remote)",
-      "workMode": "Remote",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Golang",
-        "Backend"
-      ],
-      "eligibility": "Entry level",
-      "summary": "Backend Golang developer role (remote).",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "oracle_customer_service_analyst",
-      "role": "Customer Service Analyst 1 – Support",
-      "company": "Oracle",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Entry level",
-      "skills": [
-        "Customer Service",
-        "Support"
-      ],
-      "eligibility": "Entry level",
-      "summary": "Customer service support analyst role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Operations & Customer Support",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "kpmg_analyst_health",
-      "role": "Analyst – Health",
-      "company": "KPMG Global Services",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "0-1 years",
-      "skills": [
-        "Health Domain Analysis"
-      ],
-      "eligibility": "0-1 years",
-      "summary": "Health domain analyst role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://freshershunt.in/off-campus-drive-jobs/",
-      "field": "Consulting & Analytics",
-      "type": "Non-Tech"
     },
     {
       "id": "hcltech_campus_beginner_network",
@@ -5522,27 +6998,6 @@
       "summary": "Associate software development engineer role.",
       "publishedMillis": 0,
       "applyUrl": "https://classicjobs.in/",
-      "field": "Tech & Engineering",
-      "type": "Tech"
-    },
-    {
-      "id": "ust_analyst_information_security",
-      "role": "Analyst I - Information Security",
-      "company": "UST",
-      "location": "Bengaluru",
-      "workMode": "Onsite",
-      "ctc": "₹4–7 LPA (est.)",
-      "batch": "0–2 yrs / Freshers OK",
-      "skills": [
-        "Access Control",
-        "Audit Support",
-        "Compliance",
-        "Cybersecurity"
-      ],
-      "eligibility": "Freshers welcome",
-      "summary": "Information security analyst role.",
-      "publishedMillis": 0,
-      "applyUrl": "https://hirastra.com/fresher-jobs",
       "field": "Tech & Engineering",
       "type": "Tech"
     },
@@ -5839,23 +7294,6 @@
       "type": "Non-Tech"
     },
     {
-      "id": "indiaforge_get",
-      "role": "Graduate Engineer Trainee",
-      "company": "India Forge",
-      "location": "Faridabad, India",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Freshers",
-      "skills": [
-        "Mechanical Engineering"
-      ],
-      "eligibility": "BTech/Diploma Mechanical",
-      "summary": "Production and quality trainee role.",
-      "applyUrl": "https://in.jobrapido.com/jobpreview/4585316260333486080?utm_source=bingjobs",
-      "field": "Manufacturing",
-      "type": "Non-Tech"
-    },
-    {
       "id": "sundaram_grad_trainee",
       "role": "Graduate Trainee",
       "company": "Sundaram Finance",
@@ -5891,43 +7329,6 @@
       "applyUrl": "https://in.jobrapido.com/jobpreview/7484100395480907776?utm_source=bingjobs",
       "field": "Tech & Engineering",
       "type": "Tech"
-    },
-    {
-      "id": "spr_get_civil",
-      "role": "Graduate Engineer Trainee",
-      "company": "SPR India",
-      "location": "Chennai, India",
-      "workMode": "Onsite",
-      "ctc": "As per policy",
-      "batch": "Freshers",
-      "skills": [
-        "Civil",
-        "MEP",
-        "AutoCAD"
-      ],
-      "eligibility": "BE/BTech Civil/Mechanical/Electrical",
-      "summary": "Civil and MEP trainee engineer role.",
-      "applyUrl": "https://in.jobrapido.com/jobpreview/936274937134448640?utm_source=bingjobs",
-      "field": "Civil Engineering",
-      "type": "Non-Tech"
-    },
-    {
-      "id": "spml_get_bess",
-      "role": "Graduate Engineer Trainee - BESS",
-      "company": "SPML Infra",
-      "location": "Pune, India",
-      "workMode": "Onsite",
-      "ctc": "Not disclosed",
-      "batch": "Freshers",
-      "skills": [
-        "Power Systems",
-        "Renewable Energy"
-      ],
-      "eligibility": "BE/BTech Electrical",
-      "summary": "Battery energy storage trainee role.",
-      "applyUrl": "https://in.jobrapido.com/jobpreview/9093058091603197952?utm_source=bingjobs",
-      "field": "Energy & Utilities",
-      "type": "Non-Tech"
     }
   ]
 }
